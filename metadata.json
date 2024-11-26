@@ -1,51 +1,120 @@
 {
-    "title": "Template to prepare preprints and manuscripts using markdown and github actions",
+    "title": "Overcoming the disconnect between interaction networks and biodiversity conservation and management",
     "authors": [
+        {
+            "familyname": "Dansereau",
+            "givennames": "Gabriel",
+            "email": "gabriel.dansereau@umontreal.ca",
+            "orcid": "0000-0002-2212-3584",
+            "affiliations": [
+                "Département de sciences biologiques, Université de Montréal, Montréal, Québec, Canada",
+                "Québec Centre for Biodiversity Science, Montréal, Québec, Canada"
+            ],
+            "status": [
+                "corresponding"
+            ]
+        },
+        {
+            "familyname": "Braga",
+            "givennames": "João",
+            "orcid": "0000-0003-4153-8475",
+            "affiliations": [
+                "Ecofish Research Ltd., Courtenay, British Columbia, Canada"
+            ]
+        },
+        {
+            "familyname": "Ficetola",
+            "givennames": "Gentile Francesco",
+            "orcid": "0000-0003-3414-5155",
+            "affiliations": [
+                "Department of Environmental Science and Policy, Università degli Studi di Milano, Milano, Italy",
+                "Univ. Grenoble Alpes, Univ. Savoie Mont Blanc, CNRS, LECA, F-38000 Grenoble, France"
+            ]
+        },
+        {
+            "familyname": "Galiana",
+            "givennames": "Núria",
+            "orcid": "0000-0001-7720-0615",
+            "affiliations": [
+                "Department of Biogeography and Global Change, National Museum of Natural Sciences, Madrid, Spain"
+            ]
+        },
+        {
+            "familyname": "Gravel",
+            "givennames": "Dominique",
+            "orcid": "0000-0002-4498-7076",
+            "affiliations": [
+                "Département de biologie, Université de Sherbrooke, Sherbrooke, Québec, Canada",
+                "Québec Centre for Biodiversity Science, Montréal, Québec, Canada"
+            ]
+        },
+        {
+            "familyname": "Maiorano",
+            "givennames": "Luigi",
+            "orcid": "0000-0002-2957-8979",
+            "affiliations": [
+                "Department of Biology and Biotechnologies “Charles Darwin”, Sapienza University of Rome, Italy"
+            ]
+        },
+        {
+            "familyname": "Montoya",
+            "givennames": "José M.",
+            "orcid": "0000-0002-6676-7592",
+            "affiliations": [
+                "Theoretical and Experimental Ecology Station, CNRS, Moulis, France"
+            ]
+        },
+        {
+            "familyname": "O’Connor",
+            "givennames": "Louise",
+            "orcid": "0000-0002-6671-9144",
+            "affiliations": [
+                "Biodiversity, Ecology and Conservation Group, International Institute of Applied Systems Analysis, Laxenburg, Austria"
+            ]
+        },
+        {
+            "familyname": "Pollock",
+            "givennames": "Laura",
+            "orcid": "",
+            "affiliations": [
+                "Biology Department, McGill University, Montréal, Québec, Canada"
+            ]
+        },
+        {
+            "familyname": "Thuiller",
+            "givennames": "Wilfried",
+            "orcid": "0000-0002-5388-5274",
+            "affiliations": [
+                "Univ. Grenoble Alpes, Univ. Savoie Mont Blanc, CNRS, LECA, F-38000 Grenoble, France"
+            ]
+        },
         {
             "familyname": "Poisot",
             "givennames": "Timothée",
-            "email": "timothee.poisot@umontreal.ca",
             "orcid": "0000-0002-0735-5184",
             "affiliations": [
-                "Université de Montréal",
-                "Québec Centre for Biodiversity Sciences"
-            ],
-            "status": [
-                "corresponding",
-                "equal"
+                "Département de sciences biologiques, Université de Montréal, Montréal, Québec, Canada",
+                "Québec Centre for Biodiversity Science, Montréal, Québec, Canada"
             ]
         },
         {
+            "familyname": "Barros",
+            "givennames": "Ceres",
+            "orcid": "0000-0003-4036-977X",
             "affiliations": [
-                "Inn of the Prancing Pony",
-                "Fellowship of the Ring"
-            ],
-            "familyname": "Took",
-            "givennames": "Peregrin",
-            "email": "pippin@took.shire"
-        },
-        {
-            "affiliations": [
-                "Green Dragon Inn",
-                "Fellowship of the Ring"
-            ],
-            "familyname": "Brandybuck",
-            "givennames": "Merriadoc",
-            "email": "merry@fellowship.ring",
-            "status": [
-                "equal"
+                "Pacific Forestry Centre, Canadian Forest Service, Natural Resources Canada, Victoria, British Columbia, Canada",
+                "Department of Forest Resources Management, University of British Columbia, Vancouver, British Columbia, Canada",
+                "Département des sciences du bois et de la forêt, Université Laval, Québec City, Québec, Canada"
             ]
         }
     ],
-    "abstract": {
-        "Purpose": "This template provides a series of scripts to render a markdown document into an interactive website and a series of PDFs.",
-        "Motivation": "It makes collaborating on text with GitHub easier, and means that we never need to think about the output.",
-        "Internals": "GitHub actions and a series of python scritpts. The markdown is handled with `pandoc`."
-    },
+    "abstract": "Decision-makers need to act now to halt biodiversity loss, and ecologists must provide them with relevant species interaction indicators to inform on community- and ecosystem-level changes. Yet, the integration of ecological networks into conservation is still virtually nonexistent. Here, we discuss challenges and opportunities related to uncertainty, interpretability and relevance of network metrics applied to conservation. We argue that existing data and methodologies are sufficient to generate network information usable for conservation, and to overcome existing challenges. Interaction network indicators must meet criteria important to decision-makers and be tied to specific conservation goals, which requires academics to better engage with practitioners. We suggest network robustness as an indicator for biodiversity management and showcase it in a workflow to inform decision-making.",
     "keywords": [
-        "pandoc",
-        "pandoc-crossref",
-        "github actions"
+        "ecological networks",
+        "species interactions",
+        "biodiversity indicators",
+        "ecosystem change",
+        "robustness"
     ],
-    "citationstyle": "ecology-letters"
+    "citationstyle": "dependent/trends-in-ecology-and-evolution.csl"
 }
