@@ -127,7 +127,7 @@ decisions on possible actions (e.g. responsive, preventative, etc.).
 
 ## Uncertainty
 
-### Network Structure and Composition: 
+### Network Structure and Composition: {-}
 
 There is uncertainty in network structure, composition, and variation across
 space and time, which affects conservation assessments and actions [33,34].
@@ -162,7 +162,7 @@ data becomes available, these predictions can be evaluated, refined, and become
 more informative [50]. We discuss the challenges surrounding their validation in
 our Concluding Remarks.
 
-### Network Responses to Environmental Change: 
+### Network Responses to Environmental Change: {-}
 
 Uncertainty exists in how networks will respond to environmental changes and
 disturbances, particularly for interaction rewiring and changes in interaction
@@ -197,7 +197,7 @@ future predictions through an adaptive management framework. Van Kleunen et
 al.'s [54] decision-making approach can be applied now, despite uncertainties,
 to guide management of species introductions.
 
-### Compounding Uncertainty in Change Types: 
+### Compounding Uncertainty in Change Types: {-}
 
 There is compounding uncertainty in the type and strength of change applied to a
 network. Climate uncertainty, for instance, results from uncertainty in future
@@ -295,7 +295,7 @@ on risks, on boundaries of change given environmental conditions, and on the
 effectiveness of certain management actions in achieving conservation targets
 [70].
 
-> # Box 2 - Assessing the relevance of a potential network indicator for decision-making
+> # Box 2 - Assessing the relevance of a potential network indicator for decision-making {-}
 > 
 > Network metrics should be evaluated using criteria important to
 > decision-makers to ensure their relevance as indicators and encourage
@@ -343,7 +343,7 @@ effectiveness of certain management actions in achieving conservation targets
 > by Fath et al. [8], and how they apply to robustness of trophic (non-energy
 > flow) networks.
 
-> # Box 3 - An accessible workflow applying robustness to inform decision-making
+> # Box 3 - An accessible workflow applying robustness to inform decision-making {-}
 > 
 > Effective decision-making requires indicators based on accessible and
 > reproducible analysis workflows that evaluate a range of scenarios. We
@@ -450,7 +450,7 @@ set up. Finally, incorporating network information explicitly into conservation
 will require developing network-based targets—specific, quantified metrics to
 obtain and thresholds to respect based on whole network characteristics.
 
-> # Outstanding questions
+> # Outstanding questions {-}
 > 
 > - How variable is network structure across space and time and does it
 >   influence the usefulness of network metrics as indicators of ecosystem
@@ -464,7 +464,7 @@ obtain and thresholds to respect based on whole network characteristics.
 > - How can we put in place a strong empirical program to validate network
 >   indicators, which for now heavily rely on simulations?
 
-# Acknowledgements
+# Acknowledgements {-}
 
 G.D. is funded by the NSERC Postgraduate Scholarship – Doctoral (grant ES D –
 558643), the FRQNT doctoral scholarship (grant no. 301750), and the NSERC CREATE
@@ -476,11 +476,11 @@ NaturaConnect). JMM acknowledges the support of Horizon Europe project BIOcean5D
 (award number 101059915) and the French Agence Nationale de la Recherche through
 LabEx TULIP (ANR-10-LABX-41).
 
-# Resources
+# Resources {-}
 
 i https://theses.hal.science/tel-04077711 
 ii https://www.iucnredlist.org/resources/spatial-data-download 
 iii https://www.gbif.org/what-is-gbif
 iv https://theses.hal.science/tel-01685584 
 
-# References
+# References {-}
