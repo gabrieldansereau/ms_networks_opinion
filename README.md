@@ -1,10 +1,19 @@
-# Highlights
-
-- Practitioners and scientists increasingly need multi-species and whole-ecosystem indicators that allow integrating species interaction networks into biodiversity conservation and management.
-- Explicit and quantitative integration of ecological network indicators into conservation is still lacking due to challenges with network uncertainty and accessibility to practitioners. 
-- The resulting gap between network science and management leads to decisions being made without considering available scientific knowledge.
-- We identify opportunities in closing this gap. Despite uncertainty, the field of network ecology is mature enough to offer quantitative insights into ecosystem responses to environmental changes.  
-- Simple network metrics that fit criteria important to decision-makers and can be used with current data and models, are promising starting indicators to inform conservation and management.
+> # Highlights {-}
+> 
+> - Practitioners and scientists increasingly need multi-species and
+>   whole-ecosystem indicators that allow integrating species interaction
+>   networks into biodiversity conservation and management.
+> - Explicit and quantitative integration of ecological network indicators into
+>   conservation is still lacking due to challenges with network uncertainty and
+>   accessibility to practitioners. 
+> - The resulting gap between network science and management leads to decisions
+>   being made without considering available scientific knowledge.
+> - We identify opportunities in closing this gap. Despite uncertainty, the
+>   field of network ecology is mature enough to offer quantitative insights
+>   into ecosystem responses to environmental changes.  
+> - Simple network metrics that fit criteria important to decision-makers and
+>   can be used with current data and models, are promising starting indicators
+>   to inform conservation and management.
 
 # Can interaction network knowledge be quantitatively used for biodiversity conservation and management?
 
@@ -62,45 +71,47 @@ conservation in the face of global change. In particular, testing and exploring
 network indicators can accelerate the establishment of operational monitoring
 frameworks.
 
-# Box 1 - Trophic role of keystone species
-
-Explicitly considering networks in conservation and decision-making  (i.e. by
-monitoring and managing for network-derived properties) is not a drastic shift,
-as networks are often implicitly included in conservation decisions and recovery
-plans. The keystone species concept, frequently mentioned in conservation
-literature [e.g., 2,21] and highlighted by initiatives focused on rewilding and
-ecological restoration [22,23], is linked to the disproportionate effects some
-species have on their (trophic) networks [24, also see 25 for the diverse roles
-of species identified as keystones]. Similarly, several large carnivores have
-been associated with trophic cascades, where effets of predator declines
-propagated across food webs to herbivores, mesopredators, and beyond [26]. This
-reflects network consideration through species’ effects on others, even if
-network-specific properties are not explicitly quantified – i.e. metrics like
-connectance, species trophic level, or centrality do not explicitly enter
-planning or decision-making.
-
-Importantly, keystone species are often tied to quantified conservation targets.
-For example, prairie dogs (*Cynomys spp.*) are considered keystone species due
-to their important ecosystem functions and large impact compared to other
-herbivores, which are not replicated by other species [27,28]. The Recovery
-Strategy and Action Plan for the Black-tailed Prairie Dog (Cynomys ludovicianus)
-in Canada identifies it as a conservation priority due to its keystone status,
-crucial for the recovery of the Black-footed Ferret (Mustela nigripes) and
-serving as a vital food source for several other at-risk species [29].
-Conservation targets for Black-tailed Prairie Dogs in Canada include maintaining
-a minimum area of occupancy of 1,400 ha across 20 colonies and a minimum average
-population density of 7.5 individuals/ha by 2040, ensuring at least an 80%
-probability of population persistence over 50 years [29]. 
-
-The implicit consideration of network structure in conservation targets can
-facilitate the uptake of new network-based indicators by practitioners and
-decision-makers. Indeed, knowing this structure provides additional ways to
-identify which species are potential keystones, beyond their emblematic nature
-[30]. Other forms of network-thinking are similarly part of management
-considerations, such as spatial ecological networks planning [31] and
-ecosystem-based management [11]. Explicitly considering network-based indicators
-will complement these forms of network-thinking and enhance conservation
-assessments to include ecosystem-wide components.
+> # Box 1 - Trophic role of keystone species {-}
+> 
+> Explicitly considering networks in conservation and decision-making  (i.e. by
+> monitoring and managing for network-derived properties) is not a drastic
+> shift, as networks are often implicitly included in conservation decisions and
+> recovery plans. The keystone species concept, frequently mentioned in
+> conservation literature [e.g., 2,21] and highlighted by initiatives focused on
+> rewilding and ecological restoration [22,23], is linked to the
+> disproportionate effects some species have on their (trophic) networks [24,
+> also see 25 for the diverse roles of species identified as keystones].
+> Similarly, several large carnivores have been associated with trophic
+> cascades, where effets of predator declines propagated across food webs to
+> herbivores, mesopredators, and beyond [26]. This reflects network
+> consideration through species’ effects on others, even if network-specific
+> properties are not explicitly quantified – i.e. metrics like connectance,
+> species trophic level, or centrality do not explicitly enter planning or
+> decision-making.
+> 
+> Importantly, keystone species are often tied to quantified conservation
+> targets. For example, prairie dogs (*Cynomys spp.*) are considered keystone
+> species due to their important ecosystem functions and large impact compared
+> to other herbivores, which are not replicated by other species [27,28]. The
+> Recovery Strategy and Action Plan for the Black-tailed Prairie Dog (*Cynomys
+> ludovicianus*) in Canada identifies it as a conservation priority due to its
+> keystone status, crucial for the recovery of the Black-footed Ferret (*Mustela
+> nigripes*) and serving as a vital food source for several other at-risk
+> species [29]. Conservation targets for Black-tailed Prairie Dogs in Canada
+> include maintaining a minimum area of occupancy of 1,400 ha across 20 colonies
+> and a minimum average population density of 7.5 individuals/ha by 2040,
+> ensuring at least an 80% probability of population persistence over 50 years
+> [29]. 
+> 
+> The implicit consideration of network structure in conservation targets can
+> facilitate the uptake of new network-based indicators by practitioners and
+> decision-makers. Indeed, knowing this structure provides additional ways to
+> identify which species are potential keystones, beyond their emblematic nature
+> [30]. Other forms of network-thinking are similarly part of management
+> considerations, such as spatial ecological networks planning [31] and
+> ecosystem-based management [11]. Explicitly considering network-based
+> indicators will complement these forms of network-thinking and enhance
+> conservation assessments to include ecosystem-wide components.
 
 # Challenges & opportunities
 
@@ -284,115 +295,119 @@ on risks, on boundaries of change given environmental conditions, and on the
 effectiveness of certain management actions in achieving conservation targets
 [70].
 
-# Box 2 - Assessing the relevance of a potential network indicator for decision-making
+> # Box 2 - Assessing the relevance of a potential network indicator for decision-making
+> 
+> Network metrics should be evaluated using criteria important to
+> decision-makers to ensure their relevance as indicators and encourage
+> adoption. In addition to the ROARS and SMART criteria, Fath et al. [8] suggest
+> that effective indicators should also “*describ[e] directional change [of
+> ecosystems], [be] easily communicable to managers and policy makers, [be]
+> integrative and indicative to a known response to a disturbance*” [as per 71],
+> and provide insight to ecosystem functioning and services.
+> 
+> As an example, trophic network robustness to targeted extinctions meets these
+> criteria (Table 1) and can be a useful indicator of ecosystem integrity and
+> stability to environmental change. The structural stability of trophic
+> networks is closely linked to the stability of ecosystem functioning [see
+> review by 72], with trophic interactions considered as ecosystem functions and
+> services (e.g., top-down pest control by predators). Here we show a
+> formulation of robustness derived from earlier works [73–75] that reflects the
+> capacity of a network (or the ecosystem it represents) to withstand cascading
+> extinctions:
+> 
+> $$Robustness = 1 - \frac{no. secondary extinctions}{initial no. secondary
+> consumers}$$
+> 
+> where secondary extinctions are extinctions due to the loss of other species
+> and secondary consumers are consumers of basal species (measured as network
+> species richness minus the number of basal species).
+> 
+> Robustness is easy to interpret (see Specific in Table 1) and to calculate
+> using binary trophic networks, which are more commonly available and can be
+> derived from existing trophic metawebs – this allows us to derive initial
+> (even if coarse) estimates of robustness at large, regional and local scales
+> (see references in Table 1). It also relates to ecological issues that have a
+> firm place in ecosystem management and conservation, and resonate with
+> decision-makers – numerous directives, policies and management frameworks
+> focus on avoiding species extinctions (see examples in Table 1).
+> 
+> 
+> Table 1 illustrates the potential of robustness as a network indicator and the
+> process of detailing how it meets the criteria mentioned previously.
+> Evaluating network metrics in this way is crucial for making them more
+> relevant and acceptable to decision-makers, as it demonstrates why and how the
+> indicator can be used effectively.
+> 
+> **Table 1. Relevance of robustness as an indicator.** Dale & Beyler’s [71],
+> ROARS and SMART criteria for good ecological network indicators, as described
+> by Fath et al. [8], and how they apply to robustness of trophic (non-energy
+> flow) networks.
 
-Network metrics should be evaluated using criteria important to decision-makers
-to ensure their relevance as indicators and encourage adoption. In addition to
-the ROARS and SMART criteria, Fath et al. [8] suggest that effective indicators
-should also “*describ[e] directional change [of ecosystems], [be] easily
-communicable to managers and policy makers, [be] integrative and indicative to a
-known response to a disturbance*” [as per 71], and provide insight to ecosystem
-functioning and services.
-
-As an example, trophic network robustness to targeted extinctions meets these
-criteria (Table 1) and can be a useful indicator of ecosystem integrity and
-stability to environmental change. The structural stability of trophic networks
-is closely linked to the stability of ecosystem functioning [see review by 72],
-with trophic interactions considered as ecosystem functions and services (e.g.,
-top-down pest control by predators). Here we show a formulation of robustness
-derived from earlier works [73–75] that reflects the capacity of a network (or
-the ecosystem it represents) to withstand cascading extinctions:
-
-$$Robustness = 1 - \frac{no. secondary extinctions}{initial no. secondary consumers}$$
-
-where secondary extinctions are extinctions due to the loss of other species and
-secondary consumers are consumers of basal species (measured as network species
-richness minus the number of basal species).
-
-Robustness is easy to interpret (see Specific in Table 1) and to calculate using
-binary trophic networks, which are more commonly available and can be derived
-from existing trophic metawebs – this allows us to derive initial (even if
-coarse) estimates of robustness at large, regional and local scales (see
-references in Table 1). It also relates to ecological issues that have a firm
-place in ecosystem management and conservation, and resonate with
-decision-makers – numerous directives, policies and management frameworks focus
-on avoiding species extinctions (see examples in Table 1).
-
-
-Table 1 illustrates the potential of robustness as a network indicator and the
-process of detailing how it meets the criteria mentioned previously. Evaluating
-network metrics in this way is crucial for making them more relevant and
-acceptable to decision-makers, as it demonstrates why and how the indicator can
-be used effectively.
-
-**Table 1. Relevance of robustness as an indicator.** Dale & Beyler’s [71],
-ROARS and SMART criteria for good ecological network indicators, as described by
-Fath et al. [8], and how they apply to robustness of trophic (non-energy flow)
-networks.
-
-# Box 3 - An accessible workflow applying robustness to inform decision-making
-
-Effective decision-making requires indicators based on accessible and
-reproducible analysis workflows that evaluate a range of scenarios. We
-demonstrate the potential of robustness with a workflow that uses different
-network disturbance scenarios and open-access data (Fig. 1). By using extreme
-scenarios, we can explore the boundaries of robustness to forecasted
-environmental change. The framework can be applied spatially to identify target
-areas for management and conservation action (Fig. 2) or to single networks. 
-
-Workflow steps: 
-- 1) Build local ‘reference networks’ by combining a regional metaweb of
-     interactions with ‘reference’ local species presence/absence information
-     (‘baseline’ referring to any reference period) – species that interact in
-     the metaweb and are locally present, will appear and interact in the local
-     network; 
-- 2) For each reference network, calculate the number of secondary consumers
-     (consumers of basal species) and other relevant network metrics (e.g.,
-     species and average trophic level, connectance, etc.)
-- 3) Build local ‘disturbed networks’, by combining the regional metaweb with
-     species ranges projected under different scenarios; 
-- 4) Calculate and map robustness and other network metrics (Fig. 2). 
-
-![**Workflow to calculate robustness.** Simple network metrics like robustness
-can be incorporated into workflows to assess potential ecosystem fragility to
-scenarios of disturbance and inform management and decision-making at large
-scales. See supplemental information online for full workflow
-details.](figures/Box2Scheme.png)
-
-Our example explores the lower boundaries of pan-European trophic network
-robustness by submitting vertebrate networks to two extreme scenarios:
-worst-case climate change (CMIP5 RCP 8.5, equivalent to CMIP6 SSP5-8.5), and
-failure to protect endangered species (IUCN levels: critically endangered, CR,
-endangered, EN, and vulnerable, VU; Fig. 2). Further analyses could be focused
-on investigating which species are forecasted to be lost, their roles in the
-networks and best strategies to protect these networks from a multispecies
-perspective. For instance, inspecting initial species richness and trophic
-positions of extinct species can help identify network- and species-level
-attributes that may be related to robustness (Fig. 2, lower panels). Antunes et
-al. [17] proposed a similar workflow to calculate network-provided Nature’s
-contributions to people. Ours differs from theirs in that it requires less
-sophisticated and less data-hungry methodological approaches. Together with the
-accessible automated pipeline [81], this should facilitate and accelerate uptake
-by practitioners, managers and decision-makers.
-
-![**Robustness of European vertebrate networks to disturbance scenarios.**
-Extreme scenarios of climate change and of species extinctions can be used to
-explore (lower) boundaries of network robustness and identify areas where we may
-expect a high number of cascading (secondary) extinctions and, consequently,
-larger disruptions to ecosystem functioning and services (upper panels). Further
-analyses of initial network metrics allow a deeper look into what may drive
-network robustness by comparing trophic information between primary and
-secondary extinctions (lower panels, here grouped by quantiles of robustness
-values). In this example, most networks are very robust to extinctions driven by
-a) climate change or b) the removal of endangered species listed in IUCN, but
-several networks in Northern Europe show lower robustness to targeted IUCN
-extinctions (upper panels). For networks that suffered secondary extinctions
-(where Robustness < 1; ‘Sec.’ bands on lower panels), larger networks (higher
-initial species richness) were more robust and, as expected, secondarily extinct
-species occupied higher trophic positions than primarily extinct species (‘Pri.’
-bands). See supplemental information online for more detail. Data and analyses
-for this figure were adapted from Ceres Barros, PhD thesis, Université Grenoble
-Alpes, 2017iv.](figures/Fig2.png)
+> # Box 3 - An accessible workflow applying robustness to inform decision-making
+> 
+> Effective decision-making requires indicators based on accessible and
+> reproducible analysis workflows that evaluate a range of scenarios. We
+> demonstrate the potential of robustness with a workflow that uses different
+> network disturbance scenarios and open-access data (Fig. 1). By using extreme
+> scenarios, we can explore the boundaries of robustness to forecasted
+> environmental change. The framework can be applied spatially to identify
+> target areas for management and conservation action (Fig. 2) or to single
+> networks. 
+> 
+> Workflow steps: 
+> - 1) Build local ‘reference networks’ by combining a regional metaweb of
+>      interactions with ‘reference’ local species presence/absence information
+>      (‘baseline’ referring to any reference period) – species that interact in
+>      the metaweb and are locally present, will appear and interact in the
+>      local network; 
+> - 2) For each reference network, calculate the number of secondary consumers
+>      (consumers of basal species) and other relevant network metrics (e.g.,
+>      species and average trophic level, connectance, etc.)
+> - 3) Build local ‘disturbed networks’, by combining the regional metaweb with
+>      species ranges projected under different scenarios; 
+> - 4) Calculate and map robustness and other network metrics (Fig. 2). 
+> 
+> ![**Workflow to calculate robustness.** Simple network metrics like robustness
+> can be incorporated into workflows to assess potential ecosystem fragility to
+> scenarios of disturbance and inform management and decision-making at large
+> scales. See supplemental information online for full workflow
+> details.](figures/Box2Scheme.png)
+> 
+> Our example explores the lower boundaries of pan-European trophic network
+> robustness by submitting vertebrate networks to two extreme scenarios:
+> worst-case climate change (CMIP5 RCP 8.5, equivalent to CMIP6 SSP5-8.5), and
+> failure to protect endangered species (IUCN levels: critically endangered, CR,
+> endangered, EN, and vulnerable, VU; Fig. 2). Further analyses could be focused
+> on investigating which species are forecasted to be lost, their roles in the
+> networks and best strategies to protect these networks from a multispecies
+> perspective. For instance, inspecting initial species richness and trophic
+> positions of extinct species can help identify network- and species-level
+> attributes that may be related to robustness (Fig. 2, lower panels). Antunes
+> et al. [17] proposed a similar workflow to calculate network-provided Nature’s
+> contributions to people. Ours differs from theirs in that it requires less
+> sophisticated and less data-hungry methodological approaches. Together with
+> the accessible automated pipeline [81], this should facilitate and accelerate
+> uptake by practitioners, managers and decision-makers.
+> 
+> ![**Robustness of European vertebrate networks to disturbance scenarios.**
+> Extreme scenarios of climate change and of species extinctions can be used to
+> explore (lower) boundaries of network robustness and identify areas where we
+> may expect a high number of cascading (secondary) extinctions and,
+> consequently, larger disruptions to ecosystem functioning and services (upper
+> panels). Further analyses of initial network metrics allow a deeper look into
+> what may drive network robustness by comparing trophic information between
+> primary and secondary extinctions (lower panels, here grouped by quantiles of
+> robustness values). In this example, most networks are very robust to
+> extinctions driven by a) climate change or b) the removal of endangered
+> species listed in IUCN, but several networks in Northern Europe show lower
+> robustness to targeted IUCN extinctions (upper panels). For networks that
+> suffered secondary extinctions (where Robustness < 1; ‘Sec.’ bands on lower
+> panels), larger networks (higher initial species richness) were more robust
+> and, as expected, secondarily extinct species occupied higher trophic
+> positions than primarily extinct species (‘Pri.’ bands). See supplemental
+> information online for more detail. Data and analyses for this figure were
+> adapted from Ceres Barros, PhD thesis, Université Grenoble Alpes,
+> 2017iv.](figures/Fig2.png)
 
 # Concluding remarks
 
@@ -435,19 +450,19 @@ set up. Finally, incorporating network information explicitly into conservation
 will require developing network-based targets—specific, quantified metrics to
 obtain and thresholds to respect based on whole network characteristics.
 
-# Outstanding questions
-
-- How variable is network structure across space and time and does it influence
-  the usefulness of network metrics as indicators of ecosystem functioning and
-  stability?
-- What network metrics are ubiquitous, reliable and applicable indicators of
-  ecosystem functioning and stability?
-- How much can we expect networks to change given uncertainty in future
-  environmental conditions?
-- How can current and future monitoring programs be improved to sample network
-  information relevant for management?
-- How can we put in place a strong empirical program to validate network
-  indicators, which for now heavily rely on simulations?
+> # Outstanding questions
+> 
+> - How variable is network structure across space and time and does it
+>   influence the usefulness of network metrics as indicators of ecosystem
+>   functioning and stability?
+> - What network metrics are ubiquitous, reliable and applicable indicators of
+>   ecosystem functioning and stability?
+> - How much can we expect networks to change given uncertainty in future
+>   environmental conditions?
+> - How can current and future monitoring programs be improved to sample network
+>   information relevant for management?
+> - How can we put in place a strong empirical program to validate network
+>   indicators, which for now heavily rely on simulations?
 
 # Acknowledgements
 
