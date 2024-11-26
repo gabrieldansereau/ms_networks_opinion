@@ -393,11 +393,11 @@ by combining the regional metaweb with species ranges projected under
 different scenarios; - 4) Calculate and map robustness and other network
 metrics (Fig. 2).
 
-**Figure 1. Workflow to calculate robustness.** Simple network metrics
-like robustness can be incorporated into workflows to assess potential
+![**Workflow to calculate robustness.** Simple network metrics like
+robustness can be incorporated into workflows to assess potential
 ecosystem fragility to scenarios of disturbance and inform management
 and decision-making at large scales. See supplemental information online
-for full workflow details.
+for full workflow details.](figures/Box2Scheme.png)
 
 Our example explores the lower boundaries of pan-European trophic
 network robustness by submitting vertebrate networks to two extreme
@@ -417,7 +417,7 @@ Together with the accessible automated pipeline \[81\], this should
 facilitate and accelerate uptake by practitioners, managers and
 decision-makers.
 
-**Figure 2. Robustness of European vertebrate networks to disturbance
+![**Robustness of European vertebrate networks to disturbance
 scenarios.** Extreme scenarios of climate change and of species
 extinctions can be used to explore (lower) boundaries of network
 robustness and identify areas where we may expect a high number of
@@ -436,7 +436,7 @@ richness) were more robust and, as expected, secondarily extinct species
 occupied higher trophic positions than primarily extinct species ('Pri.'
 bands). See supplemental information online for more detail. Data and
 analyses for this figure were adapted from Ceres Barros, PhD thesis,
-Université Grenoble Alpes, 2017iv.
+Université Grenoble Alpes, 2017iv.](figures/Fig2.png)
 
 # Concluding remarks
 
