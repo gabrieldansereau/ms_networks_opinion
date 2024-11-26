@@ -353,10 +353,11 @@ Workflow steps:
      species ranges projected under different scenarios; 
 - 4) Calculate and map robustness and other network metrics (Fig. 2). 
 
-**Figure 1. Workflow to calculate robustness.** Simple network metrics like
-robustness can be incorporated into workflows to assess potential ecosystem
-fragility to scenarios of disturbance and inform management and decision-making
-at large scales. See supplemental information online for full workflow details.
+![**Workflow to calculate robustness.** Simple network metrics like robustness
+can be incorporated into workflows to assess potential ecosystem fragility to
+scenarios of disturbance and inform management and decision-making at large
+scales. See supplemental information online for full workflow
+details.](figures/Box2Scheme.png)
 
 Our example explores the lower boundaries of pan-European trophic network
 robustness by submitting vertebrate networks to two extreme scenarios:
@@ -374,24 +375,24 @@ sophisticated and less data-hungry methodological approaches. Together with the
 accessible automated pipeline [81], this should facilitate and accelerate uptake
 by practitioners, managers and decision-makers.
 
-**Figure 2. Robustness of European vertebrate networks to disturbance
-scenarios.** Extreme scenarios of climate change and of species extinctions can
-be used to explore (lower) boundaries of network robustness and identify areas
-where we may expect a high number of cascading (secondary) extinctions and,
-consequently, larger disruptions to ecosystem functioning and services (upper
-panels). Further analyses of initial network metrics allow a deeper look into
-what may drive network robustness by comparing trophic information between
-primary and secondary extinctions (lower panels, here grouped by quantiles of
-robustness values). In this example, most networks are very robust to
-extinctions driven by a) climate change or b) the removal of endangered species
-listed in IUCN, but several networks in Northern Europe show lower robustness to
-targeted IUCN extinctions (upper panels). For networks that suffered secondary
-extinctions (where Robustness < 1; ‘Sec.’ bands on lower panels), larger
-networks (higher initial species richness) were more robust and, as expected,
-secondarily extinct species occupied higher trophic positions than primarily
-extinct species (‘Pri.’ bands). See supplemental information online for more
-detail. Data and analyses for this figure were adapted from Ceres Barros, PhD
-thesis, Université Grenoble Alpes, 2017iv.
+![**Robustness of European vertebrate networks to disturbance scenarios.**
+Extreme scenarios of climate change and of species extinctions can be used to
+explore (lower) boundaries of network robustness and identify areas where we may
+expect a high number of cascading (secondary) extinctions and, consequently,
+larger disruptions to ecosystem functioning and services (upper panels). Further
+analyses of initial network metrics allow a deeper look into what may drive
+network robustness by comparing trophic information between primary and
+secondary extinctions (lower panels, here grouped by quantiles of robustness
+values). In this example, most networks are very robust to extinctions driven by
+a) climate change or b) the removal of endangered species listed in IUCN, but
+several networks in Northern Europe show lower robustness to targeted IUCN
+extinctions (upper panels). For networks that suffered secondary extinctions
+(where Robustness < 1; ‘Sec.’ bands on lower panels), larger networks (higher
+initial species richness) were more robust and, as expected, secondarily extinct
+species occupied higher trophic positions than primarily extinct species (‘Pri.’
+bands). See supplemental information online for more detail. Data and analyses
+for this figure were adapted from Ceres Barros, PhD thesis, Université Grenoble
+Alpes, 2017iv.](figures/Fig2.png)
 
 # Concluding remarks
 
