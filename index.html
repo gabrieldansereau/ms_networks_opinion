@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Template to prepare preprints and manuscripts using markdown
-and github actions</title>
+    <title>Overcoming the disconnect between interaction networks and
+biodiversity conservation and management</title>
     <script src="https://hypothes.is/embed.js" async></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
         integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
@@ -239,20 +239,67 @@ and github actions</title>
 <body>
     <header>
         <div class="container">
-            <div class="header--title">Template to prepare preprints and
-manuscripts using markdown and github actions</div>
+            <div class="header--title">Overcoming the disconnect between
+interaction networks and biodiversity conservation and management</div>
             <div class="header--authors">
                 <span class="header--author">
+                <a href="https://orcid.org/0000-0002-2212-3584" target="_blank">
+                    Gabriel Dansereau
+                </a>
+                <sup class="affiliation">1,2</sup>
+                </span><span class="header--author">
+                <a href="https://orcid.org/0000-0003-4153-8475" target="_blank">
+                    João Braga
+                </a>
+                <sup class="affiliation">3</sup>
+                </span><span class="header--author">
+                <a href="https://orcid.org/0000-0003-3414-5155" target="_blank">
+                    Gentile Francesco Ficetola
+                </a>
+                <sup class="affiliation">4,5</sup>
+                </span><span class="header--author">
+                <a href="https://orcid.org/0000-0001-7720-0615" target="_blank">
+                    Núria Galiana
+                </a>
+                <sup class="affiliation">6</sup>
+                </span><span class="header--author">
+                <a href="https://orcid.org/0000-0002-4498-7076" target="_blank">
+                    Dominique Gravel
+                </a>
+                <sup class="affiliation">2,7</sup>
+                </span><span class="header--author">
+                <a href="https://orcid.org/0000-0002-2957-8979" target="_blank">
+                    Luigi Maiorano
+                </a>
+                <sup class="affiliation">8</sup>
+                </span><span class="header--author">
+                <a href="https://orcid.org/0000-0002-6676-7592" target="_blank">
+                    José M. Montoya
+                </a>
+                <sup class="affiliation">9</sup>
+                </span><span class="header--author">
+                <a href="https://orcid.org/0000-0002-6671-9144" target="_blank">
+                    Louise O’Connor
+                </a>
+                <sup class="affiliation">10</sup>
+                </span><span class="header--author">
+                Laura Pollock
+                <sup class="affiliation">11</sup>
+                </span><span class="header--author">
+                <a href="https://orcid.org/0000-0002-5388-5274" target="_blank">
+                    Wilfried Thuiller
+                </a>
+                <sup class="affiliation">5</sup>
+                </span><span class="header--author">
                 <a href="https://orcid.org/0000-0002-0735-5184" target="_blank">
                     Timothée Poisot
                 </a>
-                <sup class="affiliation">1,2,‡</sup>
+                <sup class="affiliation">1,2</sup>
                 </span><span class="header--author">
-                Peregrin Took
-                <sup class="affiliation">3,4</sup>
-                </span><span class="header--author">
-                Merriadoc Brandybuck
-                <sup class="affiliation">4,5,‡</sup>
+                <a href="https://orcid.org/0000-0003-4036-977X" target="_blank">
+                    Ceres Barros
+                </a>
+                <sup class="affiliation">12,13,14</sup>
                 </span>
             </div>
         </div>
@@ -260,25 +307,28 @@ manuscripts using markdown and github actions</div>
 
     <main class="container">
         <section class="abstract">
-            
+            Decision-makers need to act now to halt biodiversity loss,
+            and ecologists must provide them with relevant species
+            interaction indicators to inform on community- and
+            ecosystem-level changes. Yet, the integration of ecological
+            networks into conservation is still virtually nonexistent.
+            Here, we discuss challenges and opportunities related to
+            uncertainty, interpretability and relevance of network
+            metrics applied to conservation. We argue that existing data
+            and methodologies are sufficient to generate network
+            information usable for conservation, and to overcome
+            existing challenges. Interaction network indicators must
+            meet criteria important to decision-makers and be tied to
+            specific conservation goals, which requires academics to
+            better engage with practitioners. We suggest network
+            robustness as an indicator for biodiversity management and
+            showcase it in a workflow to inform decision-making.
 
-            <dl>
-                    <dt>Purpose</dt>
-                <dd>This template provides a series of scripts to render
-            a markdown document into an interactive website and a series
-            of PDFs.</dd>
-                    <dt>Internals</dt>
-                <dd>GitHub actions and a series of python scritpts. The
-            markdown is handled with <code>pandoc</code>.</dd>
-                    <dt>Motivation</dt>
-                <dd>It makes collaborating on text with GitHub easier,
-            and means that we never need to think about the output.</dd>
-                </dl>
 
             <div class="artifacts">
-                <a href="Poisot_et_al_2024_template_prepare_draft.pdf" title="Draft" target="_blank">Draft</a>
-                <a href="Poisot_et_al_2024_template_prepare_preprint.pdf" title="Preprint" target="_blank">Preprint</a>
-                <a href="Poisot_et_al_2024_template_prepare.odt" title="OpenDocument" target="_blank">Libre Office</a>
+                <a href="Dansereau_et_al_2024_overcoming_disconnect_draft.pdf" title="Draft" target="_blank">Draft</a>
+                <a href="Dansereau_et_al_2024_overcoming_disconnect_preprint.pdf" title="Preprint" target="_blank">Preprint</a>
+                <a href="Dansereau_et_al_2024_overcoming_disconnect.odt" title="OpenDocument" target="_blank">Libre Office</a>
             </div>
         </section>
 
@@ -407,10 +457,10 @@ manuscripts using markdown and github actions</div>
             <pre><code>abstract,copyright,annotation,file,pmid,month,shorttitle,keywords</code></pre>
             <p>The citations are done using the normal markdown syntax,
             where <code>@Elton1927AniEco</code> produces <span
-            class="citation" data-cites="Elton1927AniEco">Elton
-            (1927)</span>, and <code>[@Camerano1880EquViv]</code>
-            produces <span class="citation"
-            data-cites="Camerano1880EquViv">(Camerano 1880)</span>.</p>
+            class="citation" data-cites="Elton1927AniEco">[1]</span>,
+            and <code>[@Camerano1880EquViv]</code> produces <span
+            class="citation"
+            data-cites="Camerano1880EquViv">[2]</span>.</p>
             <h1 id="figures-tables-and-other-things">Figures, Tables,
             and other things</h1>
             <p>Note that you can wrap the text of legends for both
@@ -518,19 +568,20 @@ manuscripts using markdown and github actions</div>
             the order of the supp. mat. document) and <code>name</code>
             (a string giving the name of the supp. mat.).</p>
             <h1 class="unnumbered" id="references">References</h1>
-            <div id="refs"
-            class="references csl-bib-body hanging-indent"
+            <div id="refs" class="references csl-bib-body"
             role="doc-bibliography">
-            <div id="ref-Camerano1880EquViv" class="csl-entry"
-            role="doc-biblioentry">
-            Camerano, L. (1880). Dell’equilibrio dei viventi merce la
-            reciproca distruzione. <em>Atti Della R. Accad. Delle Sci.
-            Torino</em>, 15, 393–414.
-            </div>
             <div id="ref-Elton1927AniEco" class="csl-entry"
             role="doc-biblioentry">
-            Elton, C.S. (1927). <em>Animal ecology</em>. University of
-            Chicago Press.
+            <div class="csl-left-margin">1. </div><div
+            class="csl-right-inline">Elton, C.S. (1927) <em>Animal
+            ecology</em>, University of Chicago Press</div>
+            </div>
+            <div id="ref-Camerano1880EquViv" class="csl-entry"
+            role="doc-biblioentry">
+            <div class="csl-left-margin">2. </div><div
+            class="csl-right-inline">Camerano, L. (1880) Dell’equilibrio
+            dei viventi merce la reciproca distruzione. <em>Atti Della
+            R. Accad. Delle Sci. Torino</em> 15, 393–414</div>
             </div>
             </div>
         </article>
@@ -538,24 +589,36 @@ manuscripts using markdown and github actions</div>
 
     <footer>
                 <div class="container">
-            <h2>Supplementary Material</h2>
-            <span class="appendix--list">
-                <a href="appendix/Poisot_et_al_2024_template_prepare_s1.pdf" target="_blank">
-                    <b>1:</b>&nbsp;The metadata configuration file
-                </a><br />
-            </span><span class="appendix--list">
-                <a href="appendix/Poisot_et_al_2024_template_prepare_s2.pdf" target="_blank">
-                    <b>2:</b>&nbsp;Bibliography in supp. mat.
-                </a><br />
-            </span>
-        </div>
-                <div class="container">
             <h2>Affiliations</h2>
-            <sup>1</sup>&nbsp;Université de
-            Montréal; <sup>2</sup>&nbsp;Québec Centre for Biodiversity
-            Sciences; <sup>3</sup>&nbsp;Inn of the Prancing
-            Pony; <sup>4</sup>&nbsp;Fellowship of the
-            Ring; <sup>5</sup>&nbsp;Green Dragon Inn
+            <sup>1</sup>&nbsp;Département de sciences biologiques,
+            Université de Montréal, Montréal, Québec,
+            Canada; <sup>10</sup>&nbsp;Biodiversity, Ecology and
+            Conservation Group, International Institute of Applied
+            Systems Analysis, Laxenburg,
+            Austria; <sup>11</sup>&nbsp;Biology Department, McGill
+            University, Montréal, Québec,
+            Canada; <sup>12</sup>&nbsp;Pacific Forestry Centre, Canadian
+            Forest Service, Natural Resources Canada, Victoria, British
+            Columbia, Canada; <sup>13</sup>&nbsp;Department of Forest
+            Resources Management, University of British Columbia,
+            Vancouver, British Columbia,
+            Canada; <sup>14</sup>&nbsp;Département des sciences du bois
+            et de la forêt, Université Laval, Québec City, Québec,
+            Canada; <sup>2</sup>&nbsp;Québec Centre for Biodiversity
+            Science, Montréal, Québec, Canada; <sup>3</sup>&nbsp;Ecofish
+            Research Ltd., Courtenay, British Columbia,
+            Canada; <sup>4</sup>&nbsp;Department of Environmental
+            Science and Policy, Università degli Studi di Milano,
+            Milano, Italy; <sup>5</sup>&nbsp;Univ. Grenoble Alpes, Univ.
+            Savoie Mont Blanc, CNRS, LECA, F-38000 Grenoble,
+            France; <sup>6</sup>&nbsp;Department of Biogeography and
+            Global Change, National Museum of Natural Sciences, Madrid,
+            Spain; <sup>7</sup>&nbsp;Département de biologie, Université
+            de Sherbrooke, Sherbrooke, Québec,
+            Canada; <sup>8</sup>&nbsp;Department of Biology and
+            Biotechnologies “Charles Darwin”, Sapienza University of
+            Rome, Italy; <sup>9</sup>&nbsp;Theoretical and Experimental
+            Ecology Station, CNRS, Moulis, France
             <br />
             
         </div>
