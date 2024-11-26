@@ -2,14 +2,14 @@
     "title": "Template to prepare preprints and manuscripts using markdown and github actions",
     "authors": [
         {
-            "affiliations": [
-                "Université de Montréal",
-                "Québec Centre for Biodiversity Sciences"
-            ],
             "familyname": "Poisot",
             "givennames": "Timothée",
             "email": "timothee.poisot@umontreal.ca",
             "orcid": "0000-0002-0735-5184",
+            "affiliations": [
+                "Université de Montréal",
+                "Québec Centre for Biodiversity Sciences"
+            ],
             "status": [
                 "corresponding",
                 "equal"
