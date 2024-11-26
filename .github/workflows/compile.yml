@@ -16,7 +16,6 @@ jobs:
     strategy:
       matrix:
         julia-version: [1.8]
-        typesetter-version: [0.0.17]
     steps:
       - uses: actions/checkout@v2
       - name: Julia ${{ matrix.julia-version }}
@@ -26,9 +25,9 @@ jobs:
           arch: 'x64'      
       - name: Get the typesetter
         run: |
-          wget https://github.com/PoisotLab/manuscript-typesetter/archive/refs/tags/v${{ matrix.typesetter-version }}.tar.gz
-          tar -xvf v${{ matrix.typesetter-version }}.tar.gz
-          mv manuscript-typesetter-${{ matrix.typesetter-version }} .typesetter
+          wget https://github.com/gabrieldansereau/manuscript-typesetter/archive/refs/heads/ms_networks_opinion.tar.gz -O typesetter.tar.gz
+          tar -xvf typesetter.tar.gz
+          mv manuscript-typesetter-* .typesetter
       - name: Julia packages
         uses: julia-actions/julia-buildpkg@v1
         with:
