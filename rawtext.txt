@@ -15,7 +15,7 @@
 >     offer quantitative insights into ecosystem responses to
 >     environmental changes.\
 > -   Simple network metrics that fit criteria important to
->     decision-makers and can be used with current data and models, are
+>     decision-makers and can be used with current data and models are
 >     promising starting indicators to inform conservation and
 >     management.
 
