@@ -127,7 +127,7 @@ decisions on possible actions (e.g. responsive, preventative, etc.).
 
 ## Uncertainty
 
-### Network Structure and Composition: {-}
+### Network Structure and Composition {-}
 
 There is uncertainty in network structure, composition, and variation across
 space and time, which affects conservation assessments and actions [33,34].
@@ -162,7 +162,7 @@ data becomes available, these predictions can be evaluated, refined, and become
 more informative [50]. We discuss the challenges surrounding their validation in
 our Concluding Remarks.
 
-### Network Responses to Environmental Change: {-}
+### Network Responses to Environmental Change {-}
 
 Uncertainty exists in how networks will respond to environmental changes and
 disturbances, particularly for interaction rewiring and changes in interaction
@@ -197,7 +197,7 @@ future predictions through an adaptive management framework. Van Kleunen et
 al.'s [54] decision-making approach can be applied now, despite uncertainties,
 to guide management of species introductions.
 
-### Compounding Uncertainty in Change Types: {-}
+### Compounding Uncertainty in Change Types {-}
 
 There is compounding uncertainty in the type and strength of change applied to a
 network. Climate uncertainty, for instance, results from uncertainty in future
@@ -246,7 +246,7 @@ linked to higher robustness to extinction, but larger extinction cascades, 66].
 Not all network metrics are suitable as conservation indicators, nor do they
 need to be. Several have been reviewed for their relevance and limitations in
 achieving conservation goals (Louise O'Connor, PhD thesis, Université Grenoble
-Alpes, 2022i; see Table 1 therein). For example, prioritising trophic networks
+Alpes, 2022^i^; see Table 1 therein). For example, prioritising trophic networks
 with stabilising motifs when selecting protected areas can help achieve
 ecological resilience goalsi. This information can already be used towards
 conservation planning but it needs to be both accepted by and available to
@@ -259,7 +259,7 @@ the decision-makers’ receptiveness to suggested indicators during the selectio
 paving a way to communicate network information with stakeholders and embed
 network indicators in ecological monitoring and ecosystem health assessments.
 Network indicators will then need to be evaluated in terms of usefulness to
-achieve conservation goals [as in O'Connor, 2022i] and decision-maker
+achieve conservation goals [as in O'Connor, 2022^i^] and decision-maker
 receptiveness [as in 8], as we move towards developing ecosystem management and
 monitoring frameworks that quantitatively and explicitly embed network
 indicators (see example in Box 2).
@@ -315,7 +315,7 @@ effectiveness of certain management actions in achieving conservation targets
 > capacity of a network (or the ecosystem it represents) to withstand cascading
 > extinctions:
 > 
-> $$Robustness = 1 - \frac{no. secondary extinctions}{initial no. secondary
+> $$Robustness = 1 - \frac{no.\ secondary\ extinctions}{initial\ no.\ secondary\
 > consumers}$$
 > 
 > where secondary extinctions are extinctions due to the loss of other species
@@ -354,18 +354,19 @@ effectiveness of certain management actions in achieving conservation targets
 > target areas for management and conservation action (Fig. 2) or to single
 > networks. 
 > 
-> Workflow steps: 
-> - 1) Build local ‘reference networks’ by combining a regional metaweb of
+> Workflow steps:
+>  
+> 1. Build local ‘reference networks’ by combining a regional metaweb of
 >      interactions with ‘reference’ local species presence/absence information
 >      (‘baseline’ referring to any reference period) – species that interact in
 >      the metaweb and are locally present, will appear and interact in the
 >      local network; 
-> - 2) For each reference network, calculate the number of secondary consumers
+> 2. For each reference network, calculate the number of secondary consumers
 >      (consumers of basal species) and other relevant network metrics (e.g.,
 >      species and average trophic level, connectance, etc.)
-> - 3) Build local ‘disturbed networks’, by combining the regional metaweb with
+> 3. Build local ‘disturbed networks’, by combining the regional metaweb with
 >      species ranges projected under different scenarios; 
-> - 4) Calculate and map robustness and other network metrics (Fig. 2). 
+> 4. Calculate and map robustness and other network metrics (Fig. 2). 
 > 
 > ![**Workflow to calculate robustness.** Simple network metrics like robustness
 > can be incorporated into workflows to assess potential ecosystem fragility to
@@ -407,7 +408,7 @@ effectiveness of certain management actions in achieving conservation targets
 > positions than primarily extinct species (‘Pri.’ bands). See supplemental
 > information online for more detail. Data and analyses for this figure were
 > adapted from Ceres Barros, PhD thesis, Université Grenoble Alpes,
-> 2017iv.](figures/Fig2.png)
+> 2017^iv^.](figures/Fig2.png)
 
 # Concluding remarks
 
@@ -478,9 +479,9 @@ LabEx TULIP (ANR-10-LABX-41).
 
 # Resources {-}
 
-i https://theses.hal.science/tel-04077711 
-ii https://www.iucnredlist.org/resources/spatial-data-download 
-iii https://www.gbif.org/what-is-gbif
-iv https://theses.hal.science/tel-01685584 
+^i^ <https://theses.hal.science/tel-04077711> \newline
+^ii^ <https://www.iucnredlist.org/resources/spatial-data-download> \newline
+^iii^ <https://www.gbif.org/what-is-gbif> \newline
+^iv^ <https://theses.hal.science/tel-01685584>
 
 # References {-}
