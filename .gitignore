@@ -19,4 +19,4 @@ tecto*
 *.ttf
 *.otf
 *.woff2
-.fonts/*
+.fonts
