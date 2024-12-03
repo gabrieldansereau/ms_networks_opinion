@@ -376,6 +376,182 @@ targets \[70\].
 > \[71\], ROARS and SMART criteria for good ecological network
 > indicators, as described by Fath et al. \[8\], and how they apply to
 > robustness of trophic (non-energy flow) networks.
+>
+> +--------+---------------+--------------------------------------------+
+> | **Crit | **            | **How it applies to robustness**           |
+> | eria** | Description** |                                            |
+> |        |               |                                            |
+> |        | **\[as in     |                                            |
+> |        | 8\]**         |                                            |
+> +========+===============+============================================+
+> | **Dale |               |                                            |
+> | &      |               |                                            |
+> | Be     |               |                                            |
+> | yler's |               |                                            |
+> | \[     |               |                                            |
+> | 71\]** |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> |        | Describe      | Robustness measures loss of species with   |
+> |        | directional   | respect to a given (pre-disturbance)       |
+> |        | change        | species composition.                       |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> |        | Easily        | The relationship between robustness and    |
+> |        | communicable  | species extinctions is intuitive and easy  |
+> |        | to managers   | to understand.                             |
+> |        | and policy    |                                            |
+> |        | makers        | See also entry for "Relevant" below.       |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> |        | Integrative   | Trophic networks summarise the energy      |
+> |        | and           | flows in an ecosystem; their structural    |
+> |        | indicative to | stability is linked to stability of        |
+> |        | a known       | ecosystem functioning \[72\].              |
+> |        | response to a |                                            |
+> |        | disturbance   | Robustness measures trophic network        |
+> |        |               | responses to disturbances that lead to     |
+> |        |               | cascading species extinctions.             |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | **R    |               |                                            |
+> | OARS** |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Re     | It relates to | Preventing species extinctions is at the   |
+> | levant | an important  | heart of numerous conservation policies,   |
+> |        | part of an    | directives and frameworks \[e.g.,          |
+> |        | objective or  | 76--79\].                                  |
+> |        | output        |                                            |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Obj    | Based on      | Robustness is based on assessments of      |
+> | ective | facts, rather | species composition pre- and post-         |
+> |        | than feelings | disturbance.                               |
+> |        | or            |                                            |
+> |        | impressions   |                                            |
+> |        | and thus      |                                            |
+> |        | measurable    |                                            |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Ava    | Data should   | At the regional scales, available metawebs |
+> | ilable | be readily    | \[e.g., 43,57\] can be combined with       |
+> |        | available or  | species range data (e.g., IUCNii and       |
+> |        | reasonably    | GBIFiii) and scenarios of change to assess |
+> |        | measurable    | robustness (see Box 3).                    |
+> |        |               |                                            |
+> |        |               | Sub-regional/local scale assessments are   |
+> |        |               | possible in locations with monitoring data |
+> |        |               | \[e.g., 41,42\].                           |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Rea    | It should not | Marine and freshwater network data are     |
+> | listic | be too        | already being collected as part of         |
+> |        | difficult or  | monitoring programs and fisheries          |
+> |        | too expensive | activities;                                |
+> |        | to collect    |                                            |
+> |        | the           | Terrestrial metawebs exist \[43\] or can   |
+> |        | information   | be inferred \[80\]                         |
+> |        |               |                                            |
+> |        |               | Methodology to calculate robustness is not |
+> |        |               | overly complex and can be pipelined (see   |
+> |        |               | example below).                            |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Sp     | The measured  | Robustness is calculated as 1 minus the    |
+> | ecific | changes       | ratio of secondary extinctions to the      |
+> |        | should be     | initial number of secondary consumers. It  |
+> |        | expressed in  | is scaled from 0-1, with 1 indicating      |
+> |        | precise terms | maximum robustness (no secondary           |
+> |        |               | extinctions) and 0 indicating no           |
+> |        |               | robustness (all secondary consumers went   |
+> |        |               | secondarily extinct due to loss of feeding |
+> |        |               | resources).                                |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | **S    |               |                                            |
+> | MART** |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Sp     | Measured      | See entry for "Specific" above.            |
+> | ecific | changes       |                                            |
+> |        | should be     | Maps of robustness can indicate hotspots   |
+> |        | expressed in  | and priority areas for conservation.       |
+> |        | precise terms |                                            |
+> |        | and suggest   | Networks with high robustness will         |
+> |        | the direction | indicate ecosystems whose structure is     |
+> |        | of actions    | more stable and that could be managed as   |
+> |        |               | "safety nets" and/or with more liberal     |
+> |        |               | use. Those with low robustness should be   |
+> |        |               | further assessed for their uniqueness      |
+> |        |               | (e.g,. uniqueness of species composition   |
+> |        |               | and interactions, of habitat type, etc.)   |
+> |        |               | to plan conservation actions.              |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Meas   | Indicators    | In an empirical setting, there may be      |
+> | urable | should be     | ambiguity in determining whether an        |
+> |        | related to    | extinction was secondary (due to loss of   |
+> |        | things that   | other species in the network) or primary   |
+> |        | can be        | (due to, e.g., loss of climate             |
+> |        | measured in   | suitability).                              |
+> |        | an            |                                            |
+> |        | unambiguous   | In a modelling setting secondary and       |
+> |        | way           | primary extinctions can be determined.     |
+> |        |               | Null models can be used to test whether    |
+> |        |               | forecasted extinctions significantly       |
+> |        |               | deviate from random.                       |
+> |        |               |                                            |
+> |        |               | Uncertainty in both network species        |
+> |        |               | composition and structure will need to be  |
+> |        |               | recognised and accounted for explicitly    |
+> |        |               | whenever possible \[e.g., 49\]             |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Achi   | Indicators    | See entry for "Available" above.           |
+> | evable | should be     |                                            |
+> |        | reasonable    | Backcasting and historical observational   |
+> |        | and possible  | data can be used to gauge the sensitivity  |
+> |        | to reach, and | of robustness to past environmental        |
+> |        | therefore     | change.                                    |
+> |        | sensitive to  |                                            |
+> |        | changes       | Forecasting data can be used to assess     |
+> |        |               | robustness boundaries to expected changes  |
+> |        |               | and complemented with monitoring data to   |
+> |        |               | verify how networks are responding to      |
+> |        |               | change.                                    |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Repl   | Measurements  | Transparent and freely accessible          |
+> | icable | should be the | pipelines can be developed and automated   |
+> |        | same when     | to ensure repeatability.                   |
+> |        | made by       |                                            |
+> |        | different     |                                            |
+> |        | people using  |                                            |
+> |        | the same      |                                            |
+> |        | method        |                                            |
+> +--------+---------------+--------------------------------------------+
+> |        |               |                                            |
+> +--------+---------------+--------------------------------------------+
+> | Time   | There should  | This likely depends on the species and     |
+> | -bound | be a time     | type of environmental changes considered,  |
+> |        | limit within  | given different life cycle histories and   |
+> |        | which changes | species' sensitivities to change.          |
+> |        | are expected  |                                            |
+> |        | and measured  |                                            |
+> +--------+---------------+--------------------------------------------+
 
 > # Box 3 - An accessible workflow applying robustness to inform decision-making {#box-3---an-accessible-workflow-applying-robustness-to-inform-decision-making .unnumbered}
 >
