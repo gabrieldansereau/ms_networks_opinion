@@ -12,7 +12,7 @@
 >   field of network ecology is mature enough to offer quantitative insights
 >   into ecosystem responses to environmental changes.  
 > - Simple network metrics that fit criteria important to decision-makers and
->   can be used with current data and models, are promising starting indicators
+>   can be used with current data and models are promising starting indicators
 >   to inform conservation and management.
 
 # Can interaction network knowledge be quantitatively used for biodiversity conservation and management?
