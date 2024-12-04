@@ -306,7 +306,7 @@ effectiveness of certain management actions in achieving conservation targets
 > and provide insight to ecosystem functioning and services.
 > 
 > As an example, trophic network robustness to targeted extinctions meets these
-> criteria (Table 1) and can be a useful indicator of ecosystem integrity and
+> criteria (@Tbl:1) and can be a useful indicator of ecosystem integrity and
 > stability to environmental change. The structural stability of trophic
 > networks is closely linked to the stability of ecosystem functioning [see
 > review by 72], with trophic interactions considered as ecosystem functions and
@@ -322,26 +322,26 @@ effectiveness of certain management actions in achieving conservation targets
 > and secondary consumers are consumers of basal species (measured as network
 > species richness minus the number of basal species).
 > 
-> Robustness is easy to interpret (see Specific in Table 1) and to calculate
+> Robustness is easy to interpret (see Specific in @Tbl:1) and to calculate
 > using binary trophic networks, which are more commonly available and can be
 > derived from existing trophic metawebs – this allows us to derive initial
 > (even if coarse) estimates of robustness at large, regional and local scales
-> (see references in Table 1). It also relates to ecological issues that have a
+> (see references in @Tbl:1). It also relates to ecological issues that have a
 > firm place in ecosystem management and conservation, and resonate with
 > decision-makers – numerous directives, policies and management frameworks
-> focus on avoiding species extinctions (see examples in Table 1).
+> focus on avoiding species extinctions (see examples in @Tbl:1).
 > 
 > 
-> Table 1 illustrates the potential of robustness as a network indicator and the
+> @Tbl:1 illustrates the potential of robustness as a network indicator and the
 > process of detailing how it meets the criteria mentioned previously.
 > Evaluating network metrics in this way is crucial for making them more
 > relevant and acceptable to decision-makers, as it demonstrates why and how the
 > indicator can be used effectively.
 > 
-> **Table 1. Relevance of robustness as an indicator.** Dale & Beyler’s [71],
+> Table: **Relevance of robustness as an indicator.** Dale & Beyler’s [71],
 > ROARS and SMART criteria for good ecological network indicators, as described
 > by Fath et al. [8], and how they apply to robustness of trophic (non-energy
-> flow) networks.
+> flow) networks. {#tbl:1}
 >
 > 
 +-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -439,10 +439,10 @@ effectiveness of certain management actions in achieving conservation targets
 > Effective decision-making requires indicators based on accessible and
 > reproducible analysis workflows that evaluate a range of scenarios. We
 > demonstrate the potential of robustness with a workflow that uses different
-> network disturbance scenarios and open-access data (Fig. 1). By using extreme
+> network disturbance scenarios and open-access data (@Fig:1). By using extreme
 > scenarios, we can explore the boundaries of robustness to forecasted
 > environmental change. The framework can be applied spatially to identify
-> target areas for management and conservation action (Fig. 2) or to single
+> target areas for management and conservation action (@Fig:2) or to single
 > networks. 
 > 
 > Workflow steps:
@@ -457,24 +457,24 @@ effectiveness of certain management actions in achieving conservation targets
 >      species and average trophic level, connectance, etc.)
 > 3. Build local ‘disturbed networks’, by combining the regional metaweb with
 >      species ranges projected under different scenarios; 
-> 4. Calculate and map robustness and other network metrics (Fig. 2). 
+> 4. Calculate and map robustness and other network metrics (@Fig:2). 
 > 
 > ![**Workflow to calculate robustness.** Simple network metrics like robustness
 > can be incorporated into workflows to assess potential ecosystem fragility to
 > scenarios of disturbance and inform management and decision-making at large
 > scales. See supplemental information online for full workflow
-> details.](figures/Box2Scheme.png)
+> details.](figures/Box2Scheme.png){#fig:1}
 > 
 > Our example explores the lower boundaries of pan-European trophic network
 > robustness by submitting vertebrate networks to two extreme scenarios:
 > worst-case climate change (CMIP5 RCP 8.5, equivalent to CMIP6 SSP5-8.5), and
 > failure to protect endangered species (IUCN levels: critically endangered, CR,
-> endangered, EN, and vulnerable, VU; Fig. 2). Further analyses could be focused
+> endangered, EN, and vulnerable, VU; @Fig:2). Further analyses could be focused
 > on investigating which species are forecasted to be lost, their roles in the
 > networks and best strategies to protect these networks from a multispecies
 > perspective. For instance, inspecting initial species richness and trophic
 > positions of extinct species can help identify network- and species-level
-> attributes that may be related to robustness (Fig. 2, lower panels). Antunes
+> attributes that may be related to robustness (@Fig:2, lower panels). Antunes
 > et al. [17] proposed a similar workflow to calculate network-provided Nature’s
 > contributions to people. Ours differs from theirs in that it requires less
 > sophisticated and less data-hungry methodological approaches. Together with
@@ -499,7 +499,7 @@ effectiveness of certain management actions in achieving conservation targets
 > positions than primarily extinct species (‘Pri.’ bands). See supplemental
 > information online for more detail. Data and analyses for this figure were
 > adapted from Ceres Barros, PhD thesis, Université Grenoble Alpes,
-> 2017^iv^.](figures/Fig2.png)
+> 2017^iv^.](figures/Fig2.png){#fig:2}
 
 # Concluding remarks
 
