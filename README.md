@@ -29,7 +29,7 @@ interaction network metrics that decision-makers can use [8]. Implicit network
 information has already been integrated into conservation planning, for example
 through consideration of keystone species with disproportionate effects on their
 communities, which should facilitate the uptake of network-based biodiversity
-indicators in decision-making [2,9,10, see Box 1].
+indicators in decision-making [2,9,10, see Box [1][Box1]].
 
 Despite the potential benefits, conservation practices rarely explicitly
 consider information derived from measures of the structure of ecological
@@ -70,6 +70,8 @@ scientific evidence and tools to apply network concepts to management and
 conservation in the face of global change. In particular, testing and exploring
 network indicators can accelerate the establishment of operational monitoring
 frameworks.
+
+[Box1]: #box-1---trophic-role-of-keystone-species
 
 > # Box 1 - Trophic role of keystone species {-}
 > 
@@ -157,10 +159,10 @@ interaction data [45] and, when used with probabilistic networks, to integrate
 uncertainty and variation in network structure across space [49]. Network
 properties and their uncertainties can therefore be measured for broad-scale
 assessments of variation in network structure, and to derive network indicators
-that can be used to inform decisions and planning (Boxes 2-3). As new empirical
-data becomes available, these predictions can be evaluated, refined, and become
-more informative [50]. We discuss the challenges surrounding their validation in
-our Concluding Remarks.
+that can be used to inform decisions and planning (Boxes [2][Box2]-[3][Box3]).
+As new empirical data becomes available, these predictions can be evaluated,
+refined, and become more informative [50]. We discuss the challenges surrounding
+their validation in our Concluding Remarks.
 
 ### Network Responses to Environmental Change {-}
 
@@ -220,12 +222,12 @@ have been successfully used to simulate and assess the effectiveness of
 conservation actions on ecosystem services [61].
 
 Simulating scenarios of change can also help delimit the possible changes in
-network structure [Box 3, 62]. When combined with metrics of network change and
-sensitivity to disturbance, these projections can be used to identify target
-areas that show fragility to an array of scenarios and are of special concern,
-or that show less fragility and could be considered refugia. They can also
-highlight problematic or incomplete sampling. Projections will also serve to
-perform validation and assess indicator behaviour in an empirical setting,
+network structure [Box [3][Box3], 62]. When combined with metrics of network
+change and sensitivity to disturbance, these projections can be used to identify
+target areas that show fragility to an array of scenarios and are of special
+concern, or that show less fragility and could be considered refugia. They can
+also highlight problematic or incomplete sampling. Projections will also serve
+to perform validation and assess indicator behaviour in an empirical setting,
 whether through existing data or backcasting exercises, which could lead to
 network-specific monitoring programs.
 
@@ -262,7 +264,7 @@ Network indicators will then need to be evaluated in terms of usefulness to
 achieve conservation goals [as in O'Connor, 2022^i^] and decision-maker
 receptiveness [as in 8], as we move towards developing ecosystem management and
 monitoring frameworks that quantitatively and explicitly embed network
-indicators (see example in Box 2).
+indicators (see example in Box [2][Box2]).
  
 Second, network ecologists have the opportunity to expand their focus from the
 development of mathematical tools, theory and theoretical validation to
@@ -289,11 +291,13 @@ ecosystem-management players, and creating new opportunities to actively involve
 stakeholders in deciding how network information can be applied, will be key to
 ensure receptiveness and a speedy uptake of indicators for management planning
 and actions. Forecasting changes in network structure under environmental and
-management scenarios (Box 3) and linking network indicators to ecosystem
+management scenarios (Box [3][Box3]) and linking network indicators to ecosystem
 services [17] can enhance receptiveness. This will provide essential information
 on risks, on boundaries of change given environmental conditions, and on the
 effectiveness of certain management actions in achieving conservation targets
 [70].
+
+[Box2]: #box-2---assessing-the-relevance-of-a-potential-network-indicator-for-decision-making
 
 > # Box 2 - Assessing the relevance of a potential network indicator for decision-making {-}
 > 
@@ -432,7 +436,7 @@ effectiveness of certain management actions in achieving conservation targets
 | Time-bound                                                              | There should be a time limit within which changes are expected and measured                                                  | This likely depends on the species and type of environmental changes considered, given different life cycle histories and species’ sensitivities to change.                                                                                                                                                                                                |
 +=========================================================================+==============================================================================================================================+============================================================================================================================================================================================================================================================================================================================================================+
 
-
+[Box3]: #box-3---an-accessible-workflow-applying-robustness-to-inform-decision-making
 
 > # Box 3 - An accessible workflow applying robustness to inform decision-making {-}
 > 
