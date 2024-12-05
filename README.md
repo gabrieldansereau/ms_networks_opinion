@@ -590,7 +590,7 @@ obtain and thresholds to respect based on whole network characteristics.
 > - How can we put in place a strong empirical program to validate network
 >   indicators, which for now heavily rely on simulations?
 
-# Acknowledgements {-}
+# Acknowledgements
 
 G.D. is funded by the NSERC Postgraduate Scholarship – Doctoral (grant ES D –
 558643), the FRQNT doctoral scholarship (grant no. 301750), and the NSERC CREATE
@@ -602,11 +602,11 @@ NaturaConnect). JMM acknowledges the support of Horizon Europe project BIOcean5D
 (award number 101059915) and the French Agence Nationale de la Recherche through
 LabEx TULIP (ANR-10-LABX-41).
 
-# Resources {-}
+# Resources
 
 ^i^ <https://theses.hal.science/tel-04077711> \newline
 ^ii^ <https://www.iucnredlist.org/resources/spatial-data-download> \newline
 ^iii^ <https://www.gbif.org/what-is-gbif> \newline
 ^iv^ <https://theses.hal.science/tel-01685584>
 
-# References {-}
+# References
