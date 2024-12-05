@@ -2489,6 +2489,52 @@
         "type": "article-journal"
     },
     {
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        },
+        "container-title": "Ecography",
+        "author": [
+            {
+                "family": "Frelat",
+                "given": "Romain"
+            },
+            {
+                "family": "Kortsch",
+                "given": "Susanne"
+            },
+            {
+                "family": "Kröncke",
+                "given": "Ingrid"
+            },
+            {
+                "family": "Neumann",
+                "given": "Hermann"
+            },
+            {
+                "family": "Nordström",
+                "given": "Marie C."
+            },
+            {
+                "family": "Olivier",
+                "given": "Pierre E. N."
+            },
+            {
+                "family": "Sell",
+                "given": "Anne F."
+            }
+        ],
+        "id": "Frelat2022FooWeb",
+        "DOI": "10.1111/ecog.05945",
+        "volume": "2022",
+        "title": "Food web structure and community composition: A comparison across space and time in the North Sea",
+        "type": "article-journal"
+    },
+    {
         "issue": "5",
         "issued": {
             "date-parts": [
