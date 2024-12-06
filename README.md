@@ -283,7 +283,7 @@ decision-makers and managers.
 
 First, metrics must meet decision-makers' criteria. The ROARS (being Relevant,
 Objective, Available, Realistic, Specific) and SMART (Specific, Measurable,
-Achievable, Replicable, Time-bound) criteria [@Fath2019EcoNet; see Table 3
+Achievable, Replicable, Time-bound) criteria [@Fath2019EcoNet, see Table 3
 therein] focus on the decision-makers’ receptiveness to suggested indicators
 during the selection, paving a way to communicate network information with
 stakeholders and embed network indicators in ecological monitoring and ecosystem
@@ -558,7 +558,7 @@ network responses (including robustness) to environmental change can refrain
 academics from providing guidance to practitioners. Robustness and extinction
 studies usually rely on simulations to investigate effects of species losses
 (rather than observations or experimental removals) and predictions remain
-mostly untested in the field [@Morton2022MerThe; see Table 1 therein for some
+mostly untested in the field [@Morton2022MerThe, see Table 1 therein for some
 empirical validation examples]. Overcoming this barrier will require setting up
 empirical programs that go beyond documenting networks, and towards field and
 lab studies of network responses to realistic disturbances. Yet, despite this
