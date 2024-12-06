@@ -13,7 +13,7 @@
 > -   We identify opportunities in closing this gap. Despite
 >     uncertainty, the field of network ecology is mature enough to
 >     offer quantitative insights into ecosystem responses to
->     environmental changes.\
+>     environmental changes.
 > -   Simple network metrics that fit criteria important to
 >     decision-makers and can be used with current data and models are
 >     promising starting indicators to inform conservation and
@@ -110,6 +110,9 @@ operational monitoring frameworks.
 > i.e. metrics like connectance, species trophic level, or centrality do
 > not explicitly enter planning or decision-making.
 >
+> ```{=tex}
+> \setlength{\parskip}{\baselineskip}
+> ```
 > Importantly, keystone species are often tied to quantified
 > conservation targets. For example, prairie dogs (*Cynomys spp.*) are
 > considered keystone species due to their important ecosystem functions
@@ -372,6 +375,9 @@ actions in achieving conservation targets [@Polasky2011DecGre].
 > @Dale2001ChaDev], and provide insight to ecosystem functioning and
 > services.
 >
+> ```{=tex}
+> \setlength{\parskip}{\baselineskip}
+> ```
 > As an example, trophic network robustness to targeted extinctions
 > meets these criteria (Tbl. 1) and can be a useful indicator of
 > ecosystem integrity and stability to environmental change. The
@@ -616,8 +622,14 @@ actions in achieving conservation targets [@Polasky2011DecGre].
 > applied spatially to identify target areas for management and
 > conservation action (Fig. 2) or to single networks.
 >
+> ```{=tex}
+> \setlength{\parskip}{\baselineskip}
+> ```
 > Workflow steps:
 >
+> ```{=tex}
+> \vspace{7pt}
+> ```
 > 1.  Build local 'reference networks' by combining a regional metaweb
 >     of interactions with 'reference' local species presence/absence
 >     information ('baseline' referring to any reference period) --
@@ -740,7 +752,7 @@ characteristics.
 > -   How can we put in place a strong empirical program to validate
 >     network indicators, which for now heavily rely on simulations?
 
-# Acknowledgements {#acknowledgements .unnumbered}
+# Acknowledgements
 
 G.D. is funded by the NSERC Postgraduate Scholarship -- Doctoral (grant
 ES D -- 558643), the FRQNT doctoral scholarship (grant no. 301750), and
@@ -753,11 +765,11 @@ acknowledges the support of Horizon Europe project BIOcean5D (award
 number 101059915) and the French Agence Nationale de la Recherche
 through LabEx TULIP (ANR-10-LABX-41).
 
-# Resources {#resources .unnumbered}
+# Resources
 
 ^i^ <https://theses.hal.science/tel-04077711> `\newline`{=tex} ^ii^
 <https://www.iucnredlist.org/resources/spatial-data-download>
 `\newline`{=tex} ^iii^ <https://www.gbif.org/what-is-gbif>
 `\newline`{=tex} ^iv^ <https://theses.hal.science/tel-01685584>
 
-# References {#references .unnumbered}
+# References
