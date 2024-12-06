@@ -773,3 +773,6 @@ through LabEx TULIP (ANR-10-LABX-41).
 `\newline`{=tex} ^iv^ <https://theses.hal.science/tel-01685584>
 
 # References
+
+::: refs
+:::
