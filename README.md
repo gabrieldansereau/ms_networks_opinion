@@ -618,3 +618,6 @@ LabEx TULIP (ANR-10-LABX-41).
 ^iv^ <https://theses.hal.science/tel-01685584>
 
 # References
+
+:::refs
+:::
