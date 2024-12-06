@@ -183,7 +183,7 @@ structure, and to derive network indicators that can be used to inform decisions
 and planning (Boxes [2][Box2]-[3][Box3]). As new empirical data becomes
 available, these predictions can be evaluated, refined, and become more
 informative [@Johnson2023FieVal]. We discuss the challenges surrounding their
-validation in our Concluding Remarks.
+validation in our [Concluding Remarks].
 
 ### Network Responses to Environmental Change {-}
 
@@ -194,8 +194,8 @@ versus prey switching and behavioural adaptation, and how these changes will
 propagate across trophic levels.
 
 While data gaps exist, modelling and inference can explore the limits of network
-rewiring under current or future conditions (Box 3). Rewiring potential is
-likely captured in existing and inferred metawebs
+rewiring under current or future conditions (Box [3][Box3]). Rewiring potential
+is likely captured in existing and inferred metawebs
 [@Morales-Castilla2015InfBioa], which can be combined with simulations to
 anticipate network changes. For instance, Dansereau et al.’s
 [@Dansereau2024SpaExp] approach can be extended to explore climate change
@@ -269,17 +269,17 @@ buffer against extinctions and fluctuations in mutualistic networks, this is
 less clear in antagonistic networks [@Tylianakis2010ConSpe]. Connectance has
 also been tied in contrasting ways to network stability [e.g., higher
 connectance leading to increases or decreases of invasion success rates given
-invader trophic levels, @Baiser2010ConDet; higher connectance linked to higher
+invader trophic levels, @Baiser2010ConDet;\ higher connectance linked to higher
 robustness to extinction, but larger extinction cascades, @Romanuk2017ChaFiv].
 
 Not all network metrics are suitable as conservation indicators, nor do they
 need to be. Several have been reviewed for their relevance and limitations in
 achieving conservation goals (Louise O'Connor, PhD thesis, Université Grenoble
-Alpes, 2022^i^; see Table 1 therein). For example, prioritising trophic networks
-with stabilising motifs when selecting protected areas can help achieve
-ecological resilience goals^i^. This information can already be used towards
-conservation planning but it needs to be both accepted by and available to
-decision-makers and managers. 
+Alpes, 2022^[i][Resources]^; see Table 1 therein). For example, prioritising
+trophic networks with stabilising motifs when selecting protected areas can help
+achieve ecological resilience goals^[i][Resources]^. This information can
+already be used towards conservation planning but it needs to be both accepted
+by and available to decision-makers and managers. 
 
 First, metrics must meet decision-makers' criteria. The ROARS (being Relevant,
 Objective, Available, Realistic, Specific) and SMART (Specific, Measurable,
@@ -288,10 +288,11 @@ therein] focus on the decision-makers’ receptiveness to suggested indicators
 during the selection, paving a way to communicate network information with
 stakeholders and embed network indicators in ecological monitoring and ecosystem
 health assessments. Network indicators will then need to be evaluated in terms
-of usefulness to achieve conservation goals [as in O'Connor, 2022^i^] and
-decision-maker receptiveness [as in @Fath2019EcoNet], as we move towards
-developing ecosystem management and monitoring frameworks that quantitatively
-and explicitly embed network indicators (see example in Box [2][Box2]).
+of usefulness to achieve conservation goals [as in O'Connor,
+2022^[i][Resources]^] and decision-maker receptiveness [as in @Fath2019EcoNet],
+as we move towards developing ecosystem management and monitoring frameworks
+that quantitatively and explicitly embed network indicators (see example in Box
+[2][Box2]).
  
 Second, network ecologists have the opportunity to expand their focus from the
 development of mathematical tools, theory and theoretical validation to
@@ -416,7 +417,7 @@ targets [@Polasky2011DecGre].
 +-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                         |                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                            |
 +-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Available                                                               | Data should be readily available or reasonably measurable                                                                    | At the regional scales, available metawebs [e.g., @Maiorano2020TetSpe; @Frelat2022FooWeb] can be combined with species range data (e.g., IUCN^ii^ and GBIF^iii^) and scenarios of change to assess robustness (see Box [3][Box3]).                                                                                                                         |
+| Available                                                               | Data should be readily available or reasonably measurable                                                                    | At the regional scales, available metawebs [e.g., @Maiorano2020TetSpe; @Frelat2022FooWeb] can be combined with species range data (e.g., IUCN^[ii][Resources]^ and GBIF^[iii][Resources]^) and scenarios of change to assess robustness (see Box [3][Box3]).                                                                                               |
 |                                                                         |                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                         |                                                                                                                              | Sub-regional/local scale assessments are possible in locations with monitoring data [e.g., @Bonnaffe2021ComSiza; @Danet2021SpeRic].                                                                                                                                                                                                                        |
 +-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -541,7 +542,7 @@ targets [@Polasky2011DecGre].
 > positions than primarily extinct species (‘Pri.’ bands). See supplemental
 > information online for more detail. Data and analyses for this figure were
 > adapted from Ceres Barros, PhD thesis, Université Grenoble Alpes,
-> 2017^iv^.](figures/Fig2.png){#fig:2}
+> 2017^[iv][Resources]^.](figures/Fig2.png){#fig:2}
 
 # Concluding remarks
 
@@ -566,8 +567,8 @@ and other limitations (i.e., data, uncertainty, and interpretability
 challenges), we believe the field is sufficiently mature to make recommendations
 for ecosystem management and conservation as these programs are implemented.
 
-We envision five important aspects for future directions (see also Outstanding
-Questions). First, there should be developments addressing evaluation,
+We envision five important aspects for future directions (see also [Outstanding
+Questions]). First, there should be developments addressing evaluation,
 propagation, and communication of uncertainty in network structure and metrics.
 It will be key to a) integrate uncertainty robustly into management frameworks
 and move towards more transparent and informed decisions, but also to b) use
