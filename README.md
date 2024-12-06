@@ -14,7 +14,7 @@ link-citations: true
 >   being made without considering available scientific knowledge.
 > - We identify opportunities in closing this gap. Despite uncertainty, the
 >   field of network ecology is mature enough to offer quantitative insights
->   into ecosystem responses to environmental changes.  
+>   into ecosystem responses to environmental changes.
 > - Simple network metrics that fit criteria important to decision-makers and
 >   can be used with current data and models are promising starting indicators
 >   to inform conservation and management.
@@ -101,6 +101,8 @@ operational monitoring frameworks.
 > effects on others, even if network-specific properties are not explicitly
 > quantified – i.e. metrics like connectance, species trophic level, or
 > centrality do not explicitly enter planning or decision-making.
+>
+> \setlength{\parskip}{\baselineskip}
 > 
 > Importantly, keystone species are often tied to quantified conservation
 > targets. For example, prairie dogs (*Cynomys spp.*) are considered keystone
@@ -327,7 +329,7 @@ targets [@Polasky2011DecGre].
 [Box2]: #box-2---assessing-the-relevance-of-a-potential-network-indicator-for-decision-making
 
 > # Box 2 - Assessing the relevance of a potential network indicator for decision-making {-}
-> 
+>
 > Network metrics should be evaluated using criteria important to
 > decision-makers to ensure their relevance as indicators and encourage
 > adoption. In addition to the ROARS and SMART criteria, Fath et al.
@@ -336,7 +338,9 @@ targets [@Polasky2011DecGre].
 > policy makers, [be] integrative and indicative to a known response to a
 > disturbance*” [as per @Dale2001ChaDev], and provide insight to ecosystem
 > functioning and services.
-> 
+>
+> \setlength{\parskip}{\baselineskip}
+>
 > As an example, trophic network robustness to targeted extinctions meets these
 > criteria (@Tbl:1) and can be a useful indicator of ecosystem integrity and
 > stability to environmental change. The structural stability of trophic
@@ -476,9 +480,13 @@ targets [@Polasky2011DecGre].
 > scenarios, we can explore the boundaries of robustness to forecasted
 > environmental change. The framework can be applied spatially to identify
 > target areas for management and conservation action (@Fig:2) or to single
-> networks. 
-> 
+> networks.
+>
+> \setlength{\parskip}{\baselineskip}
+>
 > Workflow steps:
+>
+> \vspace{7pt}
 >  
 > 1. Build local ‘reference networks’ by combining a regional metaweb of
 >      interactions with ‘reference’ local species presence/absence information
