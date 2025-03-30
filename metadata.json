@@ -1,5 +1,5 @@
 {
-    "title": "Overcoming the disconnect between interaction networks and biodiversity conservation and management",
+    "title": "Overcoming the disconnect between species interaction networks and biodiversity conservation",
     "authors": [
         {
             "familyname": "Dansereau",
@@ -108,13 +108,14 @@
             ]
         }
     ],
-    "abstract": "Decision-makers need to act now to halt biodiversity loss, and ecologists must provide them with relevant species interaction indicators to inform on community- and ecosystem-level changes. Yet, the integration of ecological networks into conservation is still virtually nonexistent. Here, we discuss challenges and opportunities related to uncertainty, interpretability and relevance of network metrics applied to conservation. We argue that existing data and methodologies are sufficient to generate network information usable for conservation, and to overcome existing challenges. Interaction network indicators must meet criteria important to decision-makers and be tied to specific conservation goals, which requires academics to better engage with practitioners. We suggest network robustness as an indicator for biodiversity management and showcase it in a workflow to inform decision-making.",
+    "abstract": "Decision-makers need to act now to halt biodiversity loss, and ecologists must provide them with relevant species interaction indicators to inform on community- and ecosystem-level changes. Yet, the integration of ecological networks into conservation is still virtually nonexistent. Here, we argue that existing data and methodologies are sufficient to generate network information usable for conservation, and to begin overcoming existing barriers to the integration of network information and biodiversity decision-making. Interaction network indicators must meet criteria important to decision-makers and be tied to specific conservation goals, which requires academics to better engage with practitioners. We use network robustness as an example of an already-applicable indicator, and showcase its potential with a reusable workflow to inform decision-making.",
     "keywords": [
         "ecological networks",
         "species interactions",
         "biodiversity indicators",
-        "ecosystem change",
-        "robustness"
+        "robustness",
+        "conservation",
+        "management"
     ],
     "citationstyle": "dependent/trends-in-ecology-and-evolution"
 }

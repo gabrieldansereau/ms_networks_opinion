@@ -20,3 +20,5 @@ tecto*
 *.otf
 *.woff2
 .fonts
+Track_Changes*
+TREE_Draft.md
