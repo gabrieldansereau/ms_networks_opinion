@@ -111,7 +111,7 @@ available data, and reproducible workflows.
 > area of occupancy of 1,400 ha across 20 colonies and a minimum average
 > population density of 7.5 individuals/ha by 2040, ensuring at least an 80%
 > probability of population persistence over 50 years
-> [@ParksCanadaAgency2021RecStr, targets on which recovery of the Black-footed
+> [@ParksCanadaAgency2021RecStr; targets on which recovery of the Black-footed
 > ferret also depend]. 
 >
 > The existing implicit consideration of network structure in conservation
@@ -123,7 +123,7 @@ available data, and reproducible workflows.
 > will complement these forms of network-thinking and enhance conservation
 > assessments to include ecosystem-wide components.
 
-# Challenges & Opportunities
+# Challenges & opportunities
 
 The explicit integration of network information into management and conservation
 faces several challenges linked to uncertainties and lack of interpretability
@@ -507,9 +507,7 @@ effectiveness of certain management actions in achieving conservation targets
 > can be incorporated into workflows to assess potential ecosystem fragility to
 > scenarios of disturbance and inform management and decision-making at large
 > scales.](figures/Box2Scheme.png){#fig:1}
->
-> \vspace{7pt}
->
+> 
 > Here we illustrate this workflow using a fully-worked example with
 > pan-European tetrapod trophic networks. We explore the boundaries of network
 > robustness by using two extreme scenarios: worst-case climate change (CMIP5
@@ -554,21 +552,13 @@ effectiveness of certain management actions in achieving conservation targets
 > the development and sharing of reusable analyses, but also to facilitate and
 > accelerate uptake by practitioners, managers and decision-makers.
 > 
-<!-- > ![**Robustness of European vertebrate networks to disturbance scenarios per
+> ![**Robustness of European vertebrate networks to disturbance scenarios per
 > ecoregion.** Extreme scenarios of climate change and of species extinctions
 > can be used to explore (lower) boundaries of network robustness and identify
 > areas where we may expect a high number of cascading (secondary) extinctions
 > and, consequently, larger disruptions to ecosystem functioning and services.
 > Lower limit was set to 0.80 for illustration
-> purposes.](figures/Fig2.png){#fig:2 width=85% height=85%} -->
->
-> \begin{figure}[H]
-> \Oldincludegraphics[height=0.85\textheight]{figures/Fig2.png}
-> \caption{\textbf{Robustness of European vertebrate networks to disturbance scenarios per ecoregion.} Extreme scenarios of climate change and of species extinctions can be used to explore (lower) boundaries of network robustness and identify areas where we may expect a high number of cascading (secondary) extinctions and, consequently, larger disruptions to ecosystem functioning and services. Lower limit was set to 0.80 for illustration purposes.}
-> \end{figure}
->
-> 
-
+> purposes.](figures/Fig2.png){#fig:2}
 
 # Concluding remarks
 
