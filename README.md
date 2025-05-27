@@ -111,7 +111,7 @@ available data, and reproducible workflows.
 > area of occupancy of 1,400 ha across 20 colonies and a minimum average
 > population density of 7.5 individuals/ha by 2040, ensuring at least an 80%
 > probability of population persistence over 50 years
-> [@ParksCanadaAgency2021RecStr; targets on which recovery of the Black-footed
+> [@ParksCanadaAgency2021RecStr\; targets on which recovery of the Black-footed
 > ferret also depend]. 
 >
 > The existing implicit consideration of network structure in conservation
@@ -123,7 +123,7 @@ available data, and reproducible workflows.
 > will complement these forms of network-thinking and enhance conservation
 > assessments to include ecosystem-wide components.
 
-# Challenges & opportunities
+# Challenges & Opportunities
 
 The explicit integration of network information into management and conservation
 faces several challenges linked to uncertainties and lack of interpretability
