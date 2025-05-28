@@ -75,7 +75,7 @@
         {
             "familyname": "Pollock",
             "givennames": "Laura",
-            "orcid": "",
+            "orcid": "0000-0002-6004-4027",
             "affiliations": [
                 "Biology Department, McGill University, Montréal, Québec, Canada"
             ]
@@ -108,7 +108,7 @@
             ]
         }
     ],
-    "abstract": "Decision-makers need to act now to halt biodiversity loss, and ecologists must provide them with relevant species interaction indicators to inform on community- and ecosystem-level changes. Yet, the integration of ecological networks into conservation is still virtually nonexistent. Here, we argue that existing data and methodologies are sufficient to generate network information usable for conservation, and to begin overcoming existing barriers to the integration of network information and biodiversity decision-making. Interaction network indicators must meet criteria important to decision-makers and be tied to specific conservation goals, which requires academics to better engage with practitioners. We use network robustness as an example of an already-applicable indicator, and showcase its potential with a reusable workflow to inform decision-making.",
+    "abstract": "Decision-makers need to act now to halt biodiversity loss, and ecologists must provide them with relevant species interaction indicators to inform about community- and ecosystem-level changes. Yet, the integration of ecological networks into conservation is still virtually non-existent. Here, we argue that existing data and methodologies are sufficient to generate network information usable for conservation, and to begin overcoming existing barriers to the integration of network information and biodiversity decision-making. Interaction network indicators must meet criteria important to decision-makers and be tied to specific conservation goals, which requires academics to better engage with practitioners. We use network robustness as an example of an already applicable indicator, and showcase its potential with a reusable workflow to inform decision-making.",
     "keywords": [
         "ecological networks",
         "species interactions",

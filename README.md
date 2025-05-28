@@ -379,9 +379,11 @@ effectiveness of certain management actions in achieving conservation targets
 > biodiversity conservation and management.
 > 
 > Table: **Relevance of a network indicator for decision-making.** Dale &
-> Beyler’s [@Dale2001ChaDev], ROARS and SMART criteria for good ecological
-> network indicators, as described by Fath *et al.* [@Fath2019EcoNet], and how
-> they apply to robustness of trophic (binary) networks. {#tbl:1}
+> Beyler’s [@Dale2001ChaDev], ROARS (Relevant, Objective, Available, Realistic,
+> Specific) and SMART (Specific, Measurable, Achievable, Replicable, Time-bound)
+> criteria for good ecological network indicators, as described by Fath *et al.*
+> [@Fath2019EcoNet], and how they apply to robustness of trophic (binary)
+> networks. {#tbl:1}
 >
 > 
 +-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -389,7 +391,7 @@ effectiveness of certain management actions in achieving conservation targets
 |                                                                         |                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                         | **[as in Fath *et al.*, @Fath2019EcoNet]**                                                                                   |                                                                                                                                                                                                                                                                                                                                                            |
 +=========================================================================+==============================================================================================================================+============================================================================================================================================================================================================================================================================================================================================================+
-| **Dale & Beyler’s [@Dale2001ChaDev]**                                   |                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                            |
+| **Dale & Beyler [@Dale2001ChaDev]**                                     |                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                            |
 +-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                         | Describe directional change                                                                                                  | Robustness measures loss of species with respect to a given (pre-disturbance) species composition.                                                                                                                                                                                                                                                         |
 +-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -508,25 +510,25 @@ effectiveness of certain management actions in achieving conservation targets
 > scenarios of disturbance and inform management and decision-making at large
 > scales.](figures/Box2Scheme.png){#fig:1}
 > 
-> Here we illustrate this workflow using a fully-worked example with
-> pan-European tetrapod trophic networks. We explore the boundaries of network
-> robustness by using two extreme scenarios: worst-case climate change (CMIP5
-> RCP 8.5, equivalent to CMIP6 SSP5-8.5), and failure to protect endangered
-> species (loss of all species with IUCN status of Critically Endangered,
-> Endangered, and Vulnerable, across their entire range). The scenarios caused
-> changes in species composition due to climate-driven range shifts (‘climate
-> change’ in @Fig:2) or to targeted species removals (‘IUCN extinctions’). Two
-> extinction outcomes were possible: species became primarily extinct when
-> predicted to be absent from a pixel due to future climatic conditions or due
-> to targeted removal, or secondarily extinct when the pixel was climatically
-> suitable but had too few prey items. Following the workflow above, we used a
-> metaweb adapted from TETRA-EU [@Maiorano2020TetSpe, revised in
-> @Barros2017StuEco to focus on essential links] build baseline and disturbed
-> local networks [using projected species distributions based on habitat
-> preferences and presence-absence data from @Maiorano2013ThrCli], calculate the
-> number of secondary consumers (from baseline networks) and secondary
-> extinctions (from disturbed networks), then calculate and map robustness (see
-> supplemental information online for full workflow details).
+> Here we illustrate this workflow using a worked example with pan-European
+> tetrapod trophic networks. We explore the boundaries of network robustness by
+> using two extreme scenarios: worst-case climate change (CMIP5 RCP 8.5,
+> equivalent to CMIP6 SSP5-8.5), and failure to protect endangered species (loss
+> of all species with IUCN status of Critically Endangered, Endangered, and
+> Vulnerable, across their entire range). The scenarios caused changes in
+> species composition due to climate-driven range shifts (‘climate change’ in
+> @Fig:2) or to targeted species removals (‘IUCN extinctions’). Two extinction
+> outcomes were possible: species became primarily extinct when predicted to be
+> absent from a pixel due to future climatic conditions or due to targeted
+> removal, or secondarily extinct when the pixel was climatically suitable but
+> had too few prey items. Following the workflow above, we used a metaweb
+> adapted from TETRA-EU [@Maiorano2020TetSpe, revised in @Barros2017StuEco to
+> focus on essential links] build baseline and disturbed local networks [using
+> projected species distributions based on habitat preferences and
+> presence-absence data from @Maiorano2013ThrCli], calculate the number of
+> secondary consumers (from baseline networks) and secondary extinctions (from
+> disturbed networks), then calculate and map robustness (see Supplemental
+> Information online for full workflow details).
 > 
 > In this example, most networks were very robust to extinctions driven by a)
 > climate change or b) the removal of endangered species listed in IUCN, but
@@ -536,17 +538,17 @@ effectiveness of certain management actions in achieving conservation targets
 > @Dinerstein2017EcoApp], which represent geographically meaningful boundaries
 > for species and interaction composition [@Martins2022GloReg] and
 > simultaneously highlight a regional-level at which robustness can be used to
-> inform policy-making (see Fig. S2 in supplementary material for pixel values).
-> We note that this is a conceptual illustration to present robustness as an
-> example of a readily applicable indicator given the data we already have. Yet,
-> further analyses could be focused on investigating which species are projected
-> to be lost, their roles in the networks and best strategies to protect these
-> networks from a multispecies perspective.
+> inform policy-making (see Supplemental Information, Figure S2 for pixel
+> values). We note that this is a conceptual illustration to present robustness
+> as an example of a readily applicable indicator given the data we already
+> have. Yet, further analyses could be focused on investigating which species
+> are projected to be lost, their roles in the networks and best strategies to
+> protect these networks from a multispecies perspective.
 > 
 > Antunes *et al.* [@Antunes2024LinBio] proposed a similar workflow to calculate
-> network-provided Nature’s contributions to people, but our framework requires
-> less sophisticated and less data-hungry methodological approaches. We
-> emphasize that presenting a fully-worked example for potential network
+> network-provided Nature’s contributions to people, but our framework involves
+> methodological approaches that are less sophisticated and data-hungry. We
+> emphasize that presenting a fully worked example for potential network
 > indicators, as we do here with an accessible automated pipeline
 > [@Barros2024CerTro], is a transparent and practical way to not only encourage
 > the development and sharing of reusable analyses, but also to facilitate and
@@ -577,29 +579,33 @@ studies usually rely on simulations to investigate effects of species loss
 (rather than observations or experimental removals) and predictions remain
 mostly untested in the field [@Morton2022MerThe, see Table 1 therein for some
 empirical validation examples]. Overcoming this barrier will require setting up
-empirical programs that go beyond documenting networks, and towards field and
-lab studies of network responses to realistic disturbances. Yet, despite this
-and other limitations (i.e., data, uncertainty, and interpretability
-challenges), we believe the field is sufficiently mature to make recommendations
-for ecosystem management and conservation as these programs are implemented.
+programs that go beyond documenting networks and towards empirical measurements
+of network responses to realistic disturbances. Moreover, empirical and
+monitoring programs will need to collect and integrate network information
+across multiple scales, as management actions and policy-making differ between
+regional and local levels. Yet, despite this and other limitations (i.e., data,
+uncertainty, and interpretability challenges highlighted above), we believe the
+field is sufficiently mature to make recommendations for ecosystem management
+and conservation as these programs are implemented.
 
 We envision five important aspects for future directions (see also [Outstanding
-Questions]). First, there should be developments addressing evaluation,
-propagation, and communication of uncertainty in network structure and metrics.
-These will be key to a) integrate uncertainty into management frameworks and
-move towards more transparent and informed decisions, but also to b) use
-existing tools and data to compare known network and ecosystem changes with
-predictions (e.g. hindcasting), estimate boundaries of future network changes
-(e.g. forecasting), and assess the usefulness of network metrics as indicators
-of future change. Second, network considerations will need to be explicit in
-future sampling and monitoring designs, and in ecosystem conservation
-regulations and decisions. Third, current data, network models and indicators
-need to be more widely assessed for their usefulness for ecosystem management,
-which should actively involve stakeholders. Fourth, empirical programs focused
-on testing and measuring network (metrics’) responses to change will need to be
-set up. Finally, incorporating network information explicitly into conservation
-will require developing network-based targets—specific, quantified metrics to
-aim for or avoid (thresholds) based on whole network characteristics.
+Questions]). First, developments addressing evaluation, propagation, and
+communication of uncertainty in network structure and metrics are needed. These
+will be key to a) integrate uncertainty into management frameworks and move
+towards more transparent and informed decisions, but also to b) use existing
+tools and data to compare known network and ecosystem changes with predictions
+(e.g. hindcasting), estimate boundaries of future network changes (e.g.
+forecasting), and assess the usefulness of network metrics as indicators of
+future change. Second, network considerations will need to be explicit in future
+sampling and monitoring designs, and in ecosystem conservation regulations and
+decisions. Third, current data, network models and indicators need to be more
+widely assessed for their usefulness for ecosystem management, which should
+actively involve stakeholders. Fourth, empirical programs focused on testing and
+measuring network (metrics’) responses to change, and across scales, will need
+to be set up. Finally, incorporating network information explicitly into
+conservation will require developing network-based targets—specific, quantified
+metric values to aim for or avoid (thresholds) based on whole network
+characteristics.
 
 > # Outstanding questions {-}
 > 
@@ -614,6 +620,9 @@ aim for or avoid (thresholds) based on whole network characteristics.
 >   information relevant for management?
 > - How can we put in place a strong empirical program to validate network
 >   indicators, which for now heavily rely on simulations?
+> - How should we implement coordinated monitoring of network indicators across
+>   multiple scales? Can the same indicators be used to inform at broad,
+>   regional and local scales? 
 
 # Glossary
 
@@ -648,7 +657,7 @@ aim for or avoid (thresholds) based on whole network characteristics.
 > regarding their composition, structure or properties pertaining to node or
 > link importance. Common examples include number of links (interactions) and
 > nodes (species), connectance, nestedness, trophic level, centrality, omnivory
-> and network motifs [@Delmas2019AnaEco].
+> and network motifs.
 > 
 > **Primary extinctions**: extinctions directly due to disturbances. In our
 > scenarios disturbances were changes in species climate suitability or the
@@ -667,7 +676,7 @@ aim for or avoid (thresholds) based on whole network characteristics.
 > withstand species extinctions following a disturbance. Robustness can be
 > measured in multiple ways. Here we measure robustness as 1 minus the ratio of
 > secondary extinctions to the initial number of secondary consumers, following
-> concepts of robustness by Dunne *et al.* [@Dunne2002NetStr; @Dunne2004NetStr].
+> concepts of robustness by Dunne *et al.* [@Dunne2002NetStr].
 > 
 > **Secondary consumers**: species that consume other species in the network
 > (calculated as network species richness minus the number of basal species).
