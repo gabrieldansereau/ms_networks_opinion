@@ -558,7 +558,7 @@ effectiveness of certain management actions in achieving conservation targets
 > areas where we may expect a high number of cascading (secondary) extinctions
 > and, consequently, larger disruptions to ecosystem functioning and services.
 > Lower limit was set to 0.80 for illustration
-> purposes.](figures/Fig2.png){#fig:2}
+> purposes.](figures/fig2.pdf){#fig:2}
 
 # Concluding remarks
 
