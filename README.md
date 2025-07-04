@@ -509,6 +509,8 @@ effectiveness of certain management actions in achieving conservation targets
 > can be incorporated into workflows to assess potential ecosystem fragility to
 > scenarios of disturbance and inform management and decision-making at large
 > scales.](figures/Box2Scheme.png){#fig:1}
+>
+> \newpage
 > 
 > Here we illustrate this workflow using a worked example with pan-European
 > tetrapod trophic networks. We explore the boundaries of network robustness by
@@ -560,7 +562,9 @@ effectiveness of certain management actions in achieving conservation targets
 > areas where we may expect a high number of cascading (secondary) extinctions
 > and, consequently, larger disruptions to ecosystem functioning and services.
 > Lower limit was set to 0.80 for illustration
-> purposes.](figures/fig2.pdf){#fig:2}
+> purposes.](figures/fig2_h.png){#fig:2}
+
+\newpage
 
 # Concluding remarks
 
@@ -624,8 +628,10 @@ characteristics.
 >   multiple scales? Can the same indicators be used to inform at broad,
 >   regional and local scales? 
 
-# Glossary
+\newpage
 
+> # Glossary {-}
+>
 > **Basal species**: species that do not feed on other species in a trophic
 > network; e.g. primary producers.
 >
@@ -701,7 +707,9 @@ NaturaConnect). JMM acknowledges the support of Horizon Europe project BIOcean5D
 (award number 101059915) and the French Agence Nationale de la Recherche through
 LabEx TULIP (ANR-10-LABX-41). GFF and WT acknowledge the support of Biodiversa+,
 the European Biodiversity Partnership, co-funded by the European Commission
-(grant agreement no. 101052342 'PrioritIce')
+(grant agreement no. 101052342 'PrioritIce').
+
+\newpage
 
 # Resources
 
