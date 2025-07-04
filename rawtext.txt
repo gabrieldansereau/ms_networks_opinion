@@ -658,6 +658,9 @@ achieving conservation targets [@Polasky2011DecGre].
 > management and decision-making at large
 > scales.](figures/Box2Scheme.png){#fig:1}
 >
+> ```{=tex}
+> \newpage
+> ```
 > Here we illustrate this workflow using a worked example with
 > pan-European tetrapod trophic networks. We explore the boundaries of
 > network robustness by using two extreme scenarios: worst-case climate
@@ -714,8 +717,11 @@ achieving conservation targets [@Polasky2011DecGre].
 > expect a high number of cascading (secondary) extinctions and,
 > consequently, larger disruptions to ecosystem functioning and
 > services. Lower limit was set to 0.80 for illustration
-> purposes.](figures/fig2.pdf){#fig:2}
+> purposes.](figures/fig2_h.png){#fig:2}
 
+```{=tex}
+\newpage
+```
 # Concluding remarks
 
 Ecological networks already can and should be used as indicators in
@@ -783,8 +789,11 @@ targets---specific, quantified metric values to aim for or avoid
 >     indicators across multiple scales? Can the same indicators be used
 >     to inform at broad, regional and local scales?
 
-# Glossary
-
+```{=tex}
+\newpage
+```
+> # Glossary {#glossary .unnumbered}
+>
 > **Basal species**: species that do not feed on other species in a
 > trophic network; e.g. primary producers.
 >
@@ -868,8 +877,11 @@ acknowledges the support of Horizon Europe project BIOcean5D (award
 number 101059915) and the French Agence Nationale de la Recherche
 through LabEx TULIP (ANR-10-LABX-41). GFF and WT acknowledge the support
 of Biodiversa+, the European Biodiversity Partnership, co-funded by the
-European Commission (grant agreement no. 101052342 'PrioritIce')
+European Commission (grant agreement no. 101052342 'PrioritIce').
 
+```{=tex}
+\newpage
+```
 # Resources
 
 ^i^ <https://www.iucnredlist.org/resources/spatial-data-download>
